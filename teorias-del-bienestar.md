@@ -224,13 +224,13 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
     John Harris (1975) [The survival lottery](https://doi.org/10.1017/S0031819100059118), *Philosophy*, vol. 50, pp. 81–87.
 
 [^9]: A menos que valoremos más la simplicidad del utilitarismo hedonista que dar cabida a estas intuiciones.
-[^10]: Esta descripción fue adaptada de [@Nozick1974AnarchyStateAnd, p. 42].
+[^10]: Esta descripción fue adaptada de Robert Nozick (1974) [*Anarchy, State, and Utopia*](https://worldcat.org/search?q=0-631-19780-X), Oxford: Blackwell, p. 42.
 [^11]: Por supuesto, uno podría estar de acuerdo con el punto general de Nozick al considerar la vida en la máquina de experiencias como superior al menos a _algunas_ vidas “reales” (por ejemplo, algunas vidas infelices), de modo que “conectarse" podría ser aconsejable en algunas circunstancias.
-[^12]: [@Nozick1974AnarchyStateAnd, p. 43].
+[^12]: Robert Nozick (1974) [*Anarchy, State, and Utopia*](https://worldcat.org/search?q=0-631-19780-X), Oxford: Blackwell, p. 43.
 [^13]:
     Nozick afirmaba además que queremos vivir "en contacto con la realidad", pero no está claro que haya ninguna pérdida de bienestar por vivir e interactuar con otros en un mundo virtual compartido como el representado en _[The Matrix](https://es.wikipedia.org/wiki/The_Matrix)_. Un mundo virtual compartido podría, a diferencia de la máquina de experiencias, satisfacer muchos de nuestros valores y deseos no hedónicos, como tener amigos y relaciones afectivas.
 
-    [@Nozick1974AnarchyStateAnd, p. 45].
+    Robert Nozick (1974) [*Anarchy, State, and Utopia*](https://worldcat.org/search?q=0-631-19780-X), Oxford: Blackwell, p. 45.
 
 [^14]: Dan Weijers (2014) [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889), *Philosophical Psychology*, vol. 27, pp. 513–535. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
 [^15]:

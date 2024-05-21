@@ -170,7 +170,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 - CrashCourse (2017) [Non-human animals: Crash Course Philosophy #42](https://www.youtube.com/watch?v=y3-BX-jN_Ac), *CrashCourse*, 16 de enero.
 - Peter Singer (2023) [*Animal Liberation Now*](https://worldcat.org/search?q=9781635768435), New York: Diversion Books.
-- [@McMahan2003Animals].
+- Jeff McMahan (2003) [Animals](https://worldcat.org/search?q=978-1-55786-594-6), en R. G. Frey & Christopher Wellman (eds.), *A Companion to Applied Ethics*, Oxford: Blackwell, pp. 525–536.
 - Jeff Sebo (2019) [A utilitarian case for animal rights](https://www.youtube.com/watch?v=vELWCTgA9oA), *Effective Altruism Global*, 18 de diciembre.
 
 ### Largoplacismo: ampliar el círculo moral en la dimensión temporal
@@ -185,23 +185,23 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 - Allan Gibbard (1984) [Utilitarianism and human rights](https://doi.org/10.1017/S0265052500003897), *Social Philosophy and Policy*, vol. 1, pp. 92–102.
 - R. M. Hare (1981) [*Moral Thinking: Its Levels, Method, and Point*](https://worldcat.org/search?q=0-19-824660-9), Oxford: Clarendon Press.
-- [@Mackie1984RightsUtilityAnd].
+- J. L. Mackie (1984) ‘Rights, utility, and universalization’, en R. G. Frey (ed.), *Utility and rights*, Minneapolis: University of Minnesota Press, pp. 86–105.
 - Philip Pettit & Geoffrey Brennan (1986) [Restrictive consequentialism](https://doi.org/10.1080/00048408612342631), *Australasian Journal of Philosophy*, vol. 64, pp. 438–455.
 
 [^1]: Henry Sidgwick (1907) *The Methods of Ethics*, 7.ª ed., Londres: Macmillan, p. 414.
 [^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase Peter Singer (2009) [*The Life You Can Save: Acting Now to End World Poverty*](https://worldcat.org/search?q=978-0-8129-8156-8), Nueva York: Random House.
 [^3]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
-[^4]: [@Berman2018ImpedimentsEffectiveAltruism].
+[^4]: Jonathan Z. Berman *et al.* (2018) [Impediments to effective altruism: The role of subjective preferences in charitable giving](https://doi.org/10.1177/0956797617747648), *Psychological Science*, vol. 29, pp. 834–844.
 [^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en Sentience Politics (2016) [The benefits of cause-neutrality](https://web.archive.org/web/20160403060915/https://sentience-politics.org/en/philosophy/the-benefits-of-cause-neutrality/), *Sentience Politics*, abril.
 [^6]: Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, March.
 [^7]: Cf. Peter Singer (1981) [*The Expanding Circle: Ethics and Sociobiology*](https://worldcat.org/search?q=978-0-19-824646-6), Oxford: Clarendon Press.
 [^8]: Peter Singer (2011) [*Practical Ethics*](https://worldcat.org/search?q=978-0-521-70768-8), 3.ª ed., Cambridge: Cambridge University Press, p. 50.
 [^9]: Cf. William MacAskill (2015) [*Doing Good Better: How Effective Altruism Can Help You Make a Difference*](https://worldcat.org/search?q=978-1-59240-966-2), Nueva York: Random House, chap. 1.
 [^10]: Peter Singer (2002) [*Animal Liberation*](https://worldcat.org/search?q=0-06-001157-2), 3.ª ed., Nueva York: HarperCollins, p. 9. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. Lucius Caviola, Jim A. C. Everett & Nadira S. Faber (2019) [The moral standing of animals: Towards a psychology of speciesism](https://doi.org/10.1037/pspp0000182), *Journal of Personality and Social Psychology*, vol. 116, pp. 1011–1029.
-[^11]: Por ejemplo, véase [@Low2012CambridgeDeclarationConsciousness].
-[^12]: [@Tomasik2019HowManyWild].
+[^11]: Por ejemplo, véase Philip Low *et al.* (2012) [The Cambridge declaration on consciousness](https://fcmconference.org/img/CambridgeDeclarationOnConsciousness.pdf), *Francis Crick Memorial Conference*, 7 de julio.
+[^12]: Brian Tomasik (2019) [How many wild animals are there?](https://reducing-suffering.org/how-many-wild-animals-are-there/), *Brian Tomasik’s Blog*, 7 de agosto.
 [^13]:
-    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995WelfareBiologyEvolutionary]. Jeff McMahan (2015) [The moral problem of predation](https://doi.org/10.4324/9780203154410-23), en Andrew Chignell, Terence Cuneo & Matthew Halteman (eds.), *Philosophy Comes to Dinner: Arguments about the Ethics of Eating*, Nueva York: Routledge, pp. 268–294. Ole Martin Moen (2016) [The Ethics of Wild Animal Suffering](https://doi.org/10.5324/eip.v10i1.1972), *Etikk i Praksis - Nordic Journal of Applied Ethics*, 1, pp. 91–104.
+    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse Yew-Kwang Ng (1995) [Towards welfare biology: evolutionary economics of animal consciousness and suffering](https://doi.org/10.1007/BF00852469), *Biology and Philosophy*, vol. 10, pp. 255–285. Jeff McMahan (2015) [The moral problem of predation](https://doi.org/10.4324/9780203154410-23), en Andrew Chignell, Terence Cuneo & Matthew Halteman (eds.), *Philosophy Comes to Dinner: Arguments about the Ethics of Eating*, Nueva York: Routledge, pp. 268–294. Ole Martin Moen (2016) [The Ethics of Wild Animal Suffering](https://doi.org/10.5324/eip.v10i1.1972), *Etikk i Praksis - Nordic Journal of Applied Ethics*, 1, pp. 91–104.
 [^14]:
     Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: Robert Wiblin & Keiran Harris (2019) [Animals in the wild often suffer a great deal. What, if anything, should we do about that?](https://80000hours.org/podcast/episodes/persis-eskander-wild-animal-welfare/), *80,000 Hours*, 15 de abril.
 [^15]: Fred C. Adams (2008) [Long-term astrophysical processes](https://doi.org/10.1093/oso/9780198570509.003.0006), en Nick Bostrom & Milan M. Ćirković (eds.), *Global Catastrophic Risks*, Oxford: Oxford University Press, pp. 33–47.

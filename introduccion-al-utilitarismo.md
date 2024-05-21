@@ -84,10 +84,10 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarianismCrashCourse].
+- CrashCourse (2016) [Utilitarianism: Crash Course Philosophy #36](https://www.youtube.com/watch?v=-a739VjqdSI), *CrashCourse*, 22 de noviembre.
 - Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press.
 - Krister Bykvist (2010) [*Utilitarianism: A Guide for the Perplexed*](https://worldcat.org/search?q=978-0-8264-9808-3), Londres: Continuum.
-- [@Appiah2022WhatIsUtilitarianism].
+- Kwame Anthony Appiah (2022) [What is Utilitarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), *Royal Institute of Philosophy*, 18 de julio.
 
 ### Los Clásicos
 
@@ -97,15 +97,15 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Más información
 
-- [@Driver2022HistoryOfUtilitarianism].
-- [@Schultz2017HappinessPhilosophersLives].
+- Julia Driver (2009) [The history of utilitarianism](https://plato.stanford.edu/archives/win2022/entries/utilitarianism-history/), *The Stanford Encyclopedia of Philosophy* (última actualización: 22 de septiembre de 2014).
+- Bart Schultz (2017) [*The Happiness philosophers: the lives and works of the great utilitarians*](https://worldcat.org/search?q=978-0-691-15477-0), Princeton (N. J.): Princeton university press.
 - James E. Crimmins (ed.) (2013) [*The Bloomsbury Encyclopedia of Utilitarianism*](https://doi.org/10.5040/9781350021679), Londres: Bloomsbury Academic.
 - Derek Parfit (2011) [*On What Matters*](https://worldcat.org/search?q=978-0-19-926592-3), Vols. 1–3 Oxford: Oxford University Press.
 - Yew-Kwang Ng (1990) [Welfarism and utilitarianism: a rehabilitation](https://doi.org/10.1017/S0953820800000650), *Utilitas*, vol. 2, pp. 171–193.
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase [@Williams2015PossibilityOngoingMoral].
+[^2]: Para más detalles, véase Evan G. Williams (2015) [The possibility of an ongoing moral catastrophe](https://doi.org/10.1007/s10677-015-9567-7), *Ethical Theory and Moral Practice*, vol. 18, pp. 971–982.
 
 [^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 
