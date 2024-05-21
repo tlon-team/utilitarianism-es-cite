@@ -176,52 +176,52 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 
 ### Introducción
 
-- [@Crisp2001Wellbeing].
-- [@Kagan1992LimitsWellbeing].
-- [@Lin2022WellBeingPartOne].
-- [@Lin2022WellBeingPartTwo].
-- [@Parfit1984WhatMakesSomeone].
+- Roger Crisp (2001) [Well-being](https://plato.stanford.edu/entries/well-being/), *Stanford Encyclopedia of Philosophy*, 6 de noviembre (última actualización: 6 de septiembre de 2017).
+- Shelly Kagan (1992) [The limits of well-being](https://doi.org/10.1017/S0265052500001461), *Social Philosophy and Policy*, vol. 9, pp. 169–189.
+- Eden Lin (2022) [Well‐being, Part 1: the Concept of Well‐being](https://doi.org/10.1111/phc3.12812), *Philosophy Compass*, vol. 17, 2.
+- Eden Lin (2022) [Well‐being, Part 2: Theories of Well‐being](https://doi.org/10.1111/phc3.12813), *Philosophy Compass*, vol. 17, 2.
+- Derek Parfit (1984) [What makes someone’s life go best](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press, pp. 493–502.
 
 ### Bienestarismo
 
-- [@Holtug2003WelfarismVeryIdea].
-- [@Moore1996WelfarismMoralTheory].
+- Nils Holtug (2003) [Welfarism - the Very Idea](https://doi.org/10.1017/S0953820800003927), *Utilitas*, vol. 15, pp. 151–174.
+- Andrew Moore & Roger Crisp (1996) [Welfarism in moral theory](https://doi.org/10.1080/00048409612347551), *Australasian Journal of Philosophy*, vol. 74, pp. 598–613.
 
 ### Hedonismo
 
-- [@Moore2004Hedonism].
-- [@Moen2016ArgumentForHedonism].
-- [@Labukt2012HedonicToneHeterogeneity].
-- [@Crisp2006HedonismReconsidered].
-- [@Feldman2004PleasureGoodLife].
+- Andrew Moore (2004) [Hedonism](https://plato.stanford.edu/entries/hedonism/), *Stanford Encyclopedia of Philosophy*, 20 de abril.
+- Ole Martin Moen (2016) [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9), *The Journal of Value Inquiry*, vol. 50, pp. 267–281.
+- Ivar Labukt (2012) [Hedonic tone and the heterogeneity of pleasure](https://doi.org/10.1017/S0953820812000052), *Utilitas*, vol. 24, pp. 172–199.
+- Roger Crisp (2006) [Hedonism reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x), *Philosophy and Phenomenological Research*, vol. 73, pp. 619–645.
+- Fred Feldman (2004) [*Pleasure and the Good Life*](https://doi.org/10.1093/019926516X.001.0001), Oxford: Oxford University Press.
 
 ### Teorías del deseo
 
-- [@Heathwood2015DesireFulfilmentTheory].
-- [@Singer1993AboutEthics].
-- [@Heathwood2006DesireSatisfactionismAnd].
-- [@Murphy1999SimpleDesireFulfillment].
-- [@Rabinowicz1996ValueBasedPreferences].
+- Christopher C. Heathwood (2015) [Desire-Fulfilment theory](https://doi.org/10.4324/9781315682266), edición de Guy Fletcher, Routledge, pp. 135–147.
+- Peter Singer (1993) [About ethics](https://worldcat.org/search?q=0-521-43363-0), en *Practical Ethics*, 2.ª ed., Cambridge: Cambridge University Press, pp. 1–15.
+- Chris Heathwood (2006) [Desire Satisfactionism and Hedonism](https://doi.org/10.1007/s11098-004-7817-y), *Philosophical Studies*, vol. 128, pp. 539–563.
+- Mark C. Murphy (1999) [The Simple Desire-Fulfillment Theory](https://doi.org/10.1111/0029-4624.00153), *Nous*, vol. 33, pp. 247–272.
+- Wlodek Rabinowicz & Jan Österberg (1996) [Value Based on Preferences: on Two Interpretations of Preference Utilitarianism](https://doi.org/10.1017/S0266267100003692), *Economics and Philosophy*, vol. 12, pp. 1–27.
 
 ### Teorías de la lista objetiva
 
-- [@Fletcher2013FreshStartFor].
-- [@Griffin1988WellbeingItsMeaning].
-- [@Lin2014PluralismAboutWell].
+- Guy Fletcher (2013) [A Fresh Start for the Objective-List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453), *Utilitas*, vol. 25, pp. 206–220.
+- James Griffin (1988) [*Well-Being: Its Meaning, Measurement, and Moral Importance*](https://doi.org/10.1093/0198248431.001.0001), Oxford: Clarendon Press.
+- Eden Lin (2014) [Pluralism About Well-Being: Pluralism About Well-Being](https://doi.org/10.1111/phpe.12038), *Philosophical Perspectives*, vol. 28, pp. 127–154.
 
-[^1]: [@Bentham1826TheoriePeinesEt, bk. 3, chap. 1].
-[^2]: Para un panorama más detallado de las teorías del bienestar, véase [@Crisp2001Wellbeing].
+[^1]: Jeremy Bentham (1826) *Théorie Des Peines et Des Récompenses*, 3.ª ed., vol. 2, edición de Étienne Dumont, París: Bossange frères, bk. 3, chap. 1.
+[^2]: Para un panorama más detallado de las teorías del bienestar, véase Roger Crisp (2001) [Well-being](https://plato.stanford.edu/entries/well-being/), *Stanford Encyclopedia of Philosophy*, 6 de noviembre (última actualización: 6 de septiembre de 2017).
 [^3]:
-    Esta clasificación tripartita está muy extendida en la literatura, siguiendo a [@Parfit1984WhatMakesSomeone]. Sin embargo, ha sido criticada: [@Woodard2013ClassifyingTheoriesOf].
+    Esta clasificación tripartita está muy extendida en la literatura, siguiendo a Derek Parfit (1984) [What makes someone’s life go best](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press, pp. 493–502. Sin embargo, ha sido criticada: Christopher Woodard (2013) [Classifying Theories of Welfare](https://doi.org/10.1007/s11098-012-9978-4), *Philosophical Studies*, vol. 165, pp. 787–803.
 
-[^4]: Para una exposición y discusión más detallada del hedonismo, véase [@Moore2004Hedonism].
+[^4]: Para una exposición y discusión más detallada del hedonismo, véase Andrew Moore (2004) [Hedonism](https://plato.stanford.edu/entries/hedonism/), *Stanford Encyclopedia of Philosophy*, 20 de abril.
 [^5]: El hedonismo sobre el bienestar no debe confundirse con el _hedonismo psicológico_, la dudosa afirmación empírica de que los seres humanos siempre persiguen lo que les proporcionará la mayor felicidad.
 [^6]: Este punto de vista se conoce como _[egoísmo ético](https://altruismoeficaz.net/temas/egoismo)_.
-[^7]: Cf. [@Sinhababu2015EpistemicArgumentFor], y su ensayo invitado, [Naturalistic Arguments for Ethical Hedonism](https://utilitarianism.net/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
+[^7]: Cf. Neil Sinhababu (2015) ‘The epistemic argument for hedonism’,, y su ensayo invitado, [Naturalistic Arguments for Ethical Hedonism](https://utilitarianism.net/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
 [^8]:
 Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que están restringidos moralmente en su sadismo de manera estricta: nunca permitirían dañar a otro a menos que ello causara mayores beneficios netos a otros (incluidos ellos mismos). Podríamos incluso imaginar que están dispuestos a someterse ellos mismos a torturas si ello beneficia a un número suficiente de personas. (Quizá echen a suertes la elección de la víctima, en una analogía sádica de la _Lotería de la supervivencia_ de John Harris.) Cuando se estipula que los sádicos tienen conciencia moral de este modo, puede ser más fácil aceptar que su placer sádico cuenta como un bien en sí mismo.
 
-    [@Harris1975SurvivalLottery].
+    John Harris (1975) [The survival lottery](https://doi.org/10.1017/S0031819100059118), *Philosophy*, vol. 50, pp. 81–87.
 
 [^9]: A menos que valoremos más la simplicidad del utilitarismo hedonista que dar cabida a estas intuiciones.
 [^10]: Esta descripción fue adaptada de [@Nozick2003AnarchyStateUtopia, p. 42].
@@ -232,59 +232,59 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 
     [@Nozick2003AnarchyStateUtopia, p. 45].
 
-[^14]: [@Weijers2014NozickExperienceMachine]. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
+[^14]: Dan Weijers (2014) [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889), *Philosophical Psychology*, vol. 27, pp. 513–535. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
 [^15]:
     Entre otros, esta sugerencia ha sido realizada por
 
-    [@Kolber1994MentalStatismExperience].
+    Adam J. Kolber (1994) [Mental statism and the experience machine](https://ssrn.com/abstract=1322059), *Bard Journal of Social Sciences*, vol. 3, pp. 10–17.
 
-    [@Greene2001PsychologicalPerspectiveNozick].
+    Joshua D. Greene (2001) ‘A psychological perspective on Nozick’s experience machine and parfit’s repugnant conclusion’, Cincinnati, Ohio: Society for Philosophy.
     
-    [@deBrigard2010IfYouIt].
+    Felipe de Brigard (2010) [If you like it, does it matter if it’s real?](https://doi.org/10.1080/09515080903532290), *Philosophical Psychology*, vol. 23, pp. 43–57.
 
 [^16]:
-    Adaptado de [@Crisp2006HedonismReconsidered, pp. 635–636].
+    Adaptado de Roger Crisp (2006) [Hedonism reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x), *Philosophy and Phenomenological Research*, vol. 73, pp. 619–645, pp. 635–636.
 
-    Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca [@Lin2016HowToUse].
+    Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca Eden Lin (2016) [How To Use the Experience Machine](https://doi.org/10.1017/S0953820815000424), *Utilitas*, vol. 28, pp. 314–332.
 
-[^17]: [@Crisp2001Wellbeing]. Véase también [@Crisp2006HedonismReconsidered, p. 637].
+[^17]: Roger Crisp (2001) [Well-being](https://plato.stanford.edu/entries/well-being/), *Stanford Encyclopedia of Philosophy*, 6 de noviembre (última actualización: 6 de septiembre de 2017). Véase también Roger Crisp (2006) [Hedonism reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x), *Philosophy and Phenomenological Research*, vol. 73, pp. 619–645, p. 637.
 [^18]: Probablemente también desean su propia felicidad, por supuesto, que cuadra mejor con el escenario (ii). Pero el hecho de que, no obstante, prefieran la perspectiva (i) a la (ii) sugiere que (i) es el resultado que mejor satisface sus deseos _en general_.
 [^19]: Por otro lado, la objeción de los “placeres malvados” que afectaba al hedonismo parecería aplicarse con igual fuerza a las teorías del deseo, ya que estas teorías también implican que el placer sádico puede beneficiar a quien lo experimenta (si es algo que la persona desea).
-[^20]: Esta es la sugerencia de Parfit en <cite>[@Parfit1984ReasonsPersons]</cite>. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
-[^21]: Según argumenta [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en su libro de 1859, <cite>[@Mill1859Liberty]</cite>.
+[^20]: Esta es la sugerencia de Parfit en [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X). Para una restricción alternativa basada en la _atracción genuina_, véase Chris Heathwood (2019) [Which Desires Are Relevant To Well‐being?](https://doi.org/10.1111/nous.12232), *Noûs*, vol. 53, pp. 664–688.
+[^21]: Según argumenta [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en su libro de 1859, [On Liberty](https://worldcat.org/search?q=978-0-86597-650-4).
 [^22]:
-    [@Rawls1971TheoryJustice, p. 432].
+    John Rawls (1971) [*A Theory of Justice*](https://worldcat.org/search?q=0-674-01772-2), Cambridge, MA: The Belknap Press of Harvard University Press, p. 432.
 
     Algunos teóricos del deseo podrían restringir el enfoque a deseos "calientes", que presentan sus objetos como algo que es de algún modo atractivo para el sujeto, en contraste con las meras motivaciones compulsivas. Pero el contraejemplo puede adaptarse para abarcar la perspectiva del deseo "caliente" de la siguiente manera: supongamos además que el agente sufre de una grave pérdida de memoria, por lo que ni siquiera aprecia cuándo se satisface este deseo. Aún así, es lo que quiere que ocurra, hasta el punto de que preferiría contar hierba (sin darse cuenta) a hacer una pausa para tomar un medicamento que le devolviera el funcionamiento cognitivo y la capacidad de disfrutar (sin generar nuevos deseos más fuertes). De nuevo, esta preferencia parece patológica y del tipo que debe ser ignorada por el bien del sujeto.
 
 [^23]:
     Chris Heathwood subraya además la importancia de tener en cuenta la satisfacción de los deseos del agente a lo largo de toda su vida. A veces valdrá la pena frustrar un deseo para promover mejor otros. Pero podemos dar por sentado que los deseos reales de la persona se satisfacen al máximo dejándola contar distraidamente la hierba.
 
-    [@Heathwood2005ProblemDefectiveDesires].
+    Christopher C. Heathwood (2005) [The problem of defective desires](https://doi.org/10.1080/00048400500338690), *Australasian journal of philosophy*, vol. 83, pp. 487–504.
 
-[^24]: Adaptado de [@Parfit1984ReasonsPersons, p. 497]. Parfit estipula que el agente tiene garantizado un suministro de droga para toda la vida, y que la droga en cuestión no plantea ningún riesgo para la salud ni efectos secundarios adversos aparte de la adicción extrema.
+[^24]: Adaptado de Derek Parfit (1984) [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press, p. 497. Parfit estipula que el agente tiene garantizado un suministro de droga para toda la vida, y que la droga en cuestión no plantea ningún riesgo para la salud ni efectos secundarios adversos aparte de la adicción extrema.
 [^25]: Ponderados según la fuerza de cada deseo. Por ejemplo, uno puede estar mejor en términos netos si tiene un deseo muy fuerte satisfecho y dos muy débiles frustrados.
 [^26]: Es decir, el mejor futuro en términos del _bienestar de este individuo_. Aún podría tener razones morales para elegir un futuro diferente, ya que ser profesor o bombero seguramente ayudaría más a los demás. Pero incluso la afirmación limitada de que la drogadicción es lo mejor _para este individuo_ parecerá contraintuitiva a muchos.
 [^27]: Los deseos pasados de evitar este resultado tendrían hasta cierto punto un efecto negativo, a menos que se incorpore un "requisito de concurrencia" según el cual sólo cuentan los deseos que existen _al mismo tiempo_ que su satisfacción. Las perspectivas que incorporan este requisito tienen, pues, aún más dificultades para evitar la implicación de que tales satisfacciones de deseo inducidas pueden anular fácilmente las preferencias presentes de la persona.
 [^28]: Esta teoría es temporalmente relativa porque una vez que se ha hecho la elección relevante, la elección futura, que antes era contingente, puede dejar de serlo en cualquier decisión restante, en cuyo caso ya no se descontará. Si, por ejemplo, una persona se vuelve drogadicta satisfecha, el necesitarista puede decir _ahora_ que eso es lo mejor, aunque _antes_ de tomar la decisión hubiera desaconsejado hacerlo (basándose en los deseos previos de la persona). Esto genera una incoherencia temporal incómoda, ya que nuestro teórico parece comprometido con afirmaciones como "Ahora sería malo para ti hacerte drogadicto, pero si sigues adelante y lo haces, ello será, por el contrario, bueno para ti."
 [^29]: Simplemente "puede", porque mucho depende de los detalles. Es perfectamente posible que convertirse en un profesor muy satisfecho también satisfaga mejor _otros_ deseos que uno tiene (en ambos resultados), en cuyo caso incluso el necesitarista podría llegar a la conclusión de que este cambio sería lo mejor para uno en general, a pesar de no dar ningún peso intrínseco al deseo contingente de ser profesor (y dar todo el peso al deseo pasado, y por tanto no contingente, de ser bombero). Pero habrá al menos algunos casos en los que impedir el cambio resulte contraintuitivo debido al descuento.
 [^30]:
-    Entre los teóricos de la lista objetiva se incluyen [@Finnis1980NaturalLawNatural]. [@Griffin1988WellbeingItsMeaning]. [@Fletcher2013FreshStartFor]. [@Lin2014PluralismAboutWell].
+    Entre los teóricos de la lista objetiva se incluyen John Finnis (1980) [*Natural Law and Natural Rights*](https://worldcat.org/search?q=0-19-959914-9), Oxford: Clarendon Press. James Griffin (1988) [*Well-Being: Its Meaning, Measurement, and Moral Importance*](https://doi.org/10.1093/0198248431.001.0001), Oxford: Clarendon Press. Guy Fletcher (2013) [A Fresh Start for the Objective-List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453), *Utilitas*, vol. 25, pp. 206–220. Eden Lin (2014) [Pluralism About Well-Being: Pluralism About Well-Being](https://doi.org/10.1111/phpe.12038), *Philosophical Perspectives*, vol. 28, pp. 127–154.
 
     Para una visión general y discusión del pluralismo de valores, incluidas las teorías de la lista objetiva, véase
-    [@Mason2006ValuePluralism].
-    [@Lin2015MonismAndPluralism].
+    Elinor Mason (2006) [Value pluralism](https://plato.stanford.edu/entries/value-pluralism/), *Stanford Encyclopedia of Philosophy*, 20 de junio.
+    Eden Lin (2015) [Monism and pluralism](https://doi.org/10.4324/9781315682266), edición de Guy Fletcher, Routledge, pp. 331–341.
 
 [^31]: Como memorizar la guía telefónica u otros datos triviales no parece tener ningún valor, es mejor restringirse al conocimiento _significativo_, o al conocimiento de verdades _importantes_.
 [^32]: Recordemos nuestro contraste entre la persona A (con una vida excelente) y la persona B, que experimenta una "repetición" pasiva de la vida de A, con un acceso extra de placer al final. Aunque la vida de B contiene más placer, la vida de A contendrá más valor global si también contamos las relaciones amorosas, los logros, etc., como bienes básicos de bienestar. Aunque la vida de B contiene las mismas experiencias _de_ relaciones amorosas, logros, etc., que la de A, es una "repetición" pasiva, que no involucra elecciones o interacciones reales. Por lo tanto, la vida de B no incluye ninguno de los logros o relaciones reales de A.
-[^33]: Para una exploración del estado actual de las relaciones entre las teorías del bienestar y los puntos de vista metaéticos, véase [@Fletcher2021DearPrudenceNature, chap. 7].
+[^33]: Para una exploración del estado actual de las relaciones entre las teorías del bienestar y los puntos de vista metaéticos, véase Guy Fletcher (2021) [*Dear Prudence: The Nature and Normativity of Prudential Discourse*](https://worldcat.org/search?q=9780198858263), 1.ª ed., Oxford, Reino Unido: Oxford University Press, chap. 7.
 [^34]:
 Los [expresivistas](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) podrían ofrecer una glosa antirrealista de lo que "realmente importa". Pero entonces pueden extender con la misma comodidad esta glosa al tipo de "objetividad" de primer orden postulada por las teorías de la lista objetiva.
-[^35]: Cf.  [@Bedke2010MightAllNormativity].
+[^35]: Cf.  Matthew S. Bedke (2010) [Might All Normativity Be Queer?](https://doi.org/10.1080/00048400802636445), *Australasian Journal of Philosophy*, vol. 88, pp. 41–58.
 [^36]: En efecto, sería menos "misterioso" negar la realidad del valor y afirmar que la valoración subjetiva es _todo lo que hay_ en las inmediaciones. Pero esto sería una forma de nihilismo: que _S_ valore _p_ es un hecho puramente descriptivo de la psicología de _S_. No hay nada inherentemente cargado de valor en esto, a menos que afirmemos además que la valoración subjetiva es algo que realmente _importa_ de alguna manera. Y entonces volvemos a atribuir valor real, con todo el misterio que ello implica.
 [^37]:
 Como escribe Peter Railton: "lo que es intrínsecamente valioso para una persona debe tener una conexión con lo que encontraría convincente o atractivo en algún grado, al menos si fuera racional y consciente. Sería una concepción intolerablemente alienada del bien de alguien imaginar que pudiera dejar de comprometerlo de algún modo."
 
-    [@Railton2003FactsAndValues, p. 47].
+    Peter Albert Railton (2003) [Facts and values](https://doi.org/10.1017/CBO9780511613982.003), en *Facts, Values, and Norms*, Cambridge, U.K.: Cambridge University Press, pp. 43–68, p. 47.
 
-[^38]: Tal vez el punto de vista híbrido más conocido se encuentre en  [@Kagan2009WellBeingAs].
+[^38]: Tal vez el punto de vista híbrido más conocido se encuentre en  Shelly Kagan (2009) [Well-being as enjoying the good](https://doi.org/10.1111/j.1520-8583.2009.00170.x), *Philosophical Perspectives*, vol. 23, pp. 253–272.

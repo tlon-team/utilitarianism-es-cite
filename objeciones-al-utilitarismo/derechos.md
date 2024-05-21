@@ -71,23 +71,23 @@ Por supuesto, es importante subrayar que la vida real no viene con tales estipul
 
 ## Recursos y Más información
 
-- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 4: Objections], sec. “Does utilitarianism tell us to act immorally?”. 
-- [@Bykvist2010UtilitarianismGuidePerplexed, chap. 8: Is Utilitarianism too permissive?].
-- [@Kagan1998NormativeEthics, chap. 3].
-- [@Kagan1989LimitsMorality].
-- [@Rivera-Lopez2012MoralMurderer].
-- [@Thomson1976KillingLettingDie].
-- [@Woodcock2017WhenWillConsequentialist].
+- Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press, chap. 4: Objections, sec. “Does utilitarianism tell us to act immorally?”. 
+- Krister Bykvist (2010) [*Utilitarianism: A Guide for the Perplexed*](https://worldcat.org/search?q=978-0-8264-9808-3), Londres: Continuum, chap. 8: Is Utilitarianism too permissive?.
+- Shelly Kagan (1998) [*Normative Ethics*](https://worldcat.org/search?q=0-8133-0845-3), Boulder, Colorado: Westview Press, chap. 3.
+- Shelly Kagan (1989) [*The limits of morality*](https://worldcat.org/search?q=0-19-823916-5), Oxford: Oxford University Press.
+- Eduardo Rivera-López (2012) [The moral murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x), *Ratio*, vol. 25, pp. 307–325.
+- Judith Jarvis Thomson (1976) [Killing, letting die, and the trolley problem](https://doi.org/10.5840/monist197659224), *The Monist*, vol. 59, pp. 204–217.
+- Scott Woodcock (2017) [When will a consequentialist push you in front of a trolley?](https://doi.org/10.1080/00048402.2016.1212909), *Australasian Journal of Philosophy*, vol. 95, pp. 299–316.
 
-[^1]: Adaptado de [@Thomson1976KillingLettingDie, p. 206].
+[^1]: Adaptado de Judith Jarvis Thomson (1976) [Killing, letting die, and the trolley problem](https://doi.org/10.5840/monist197659224), *The Monist*, vol. 59, pp. 204–217, p. 206.
 [^2]:
     Este daño a la reputación está lejos de ser trivial. Cada individuo que se compromete [a actuar conforme al utilitarismo](../actuar-conforme-al-utilitarismo.md) (de forma competente) podría salvar _muchas_ vidas en términos esperados. Así que hacer cosas que puedan disuadir a _muchos_ miembros de la sociedad (a nivel de toda la población) de seguir una ética utilitarista ocasiona un riesgo de daño _inmenso_. Sobre los costos del daño instrumental para la reputación, véase
 
-    [@Everett2018CostsOfBeing].
+    Jim A. C. Everett *et al.* (2018) [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004), *Journal of Experimental Social Psychology*, vol. 79, pp. 200–216.
 
 [^3]:
-    [@Rivera-Lopez2012MoralMurderer].
+    Eduardo Rivera-López (2012) [The moral murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x), *Ratio*, vol. 25, pp. 307–325.
 
-    Para una discusión crítica, véase [@Chappell2012CounterexamplesToConsequentialism].
+    Para una discusión crítica, véase Richard Yetter Chappell (2012) [Counterexamples to consequentialism](https://www.philosophyetc.net/2012/08/counterexamples-to-consequentialism.html), *Philosophy, et Cetera*, 23 de agosto.
 
 [^4]: Incluso si de alguna manera podemos estipular que la evidencia de primer orden del agente abona la creencia de que el asesinato es netamente positivo en su caso, también tenemos que tener en cuenta la _evidencia de orden superior_ de que la mayoría de las personas que hacen tales juicios están equivocadas. Dado el riesgo de error de cálculo y los perjuicios mucho mayores que podrían derivarse de infringir las normas sociales ampliamente aceptadas, el utilitarismo bien podría recomendar que los médicos adoptaran una disposición _estrictamente_ contraria al asesinato, en lugar de estar abiertos a cometer asesinatos siempre que les _parezca_ que es lo mejor.

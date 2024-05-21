@@ -129,75 +129,75 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 
 ### Más allá del bienestarismo
 
-- [@Routley1973IsThereNeed].
-- [@Anderson1999WhatPointEquality].
-- [@Parfit1997EqualityPriority].
+- Richard Routley (1973) [Is there a need for a new, an environmental ethic](https://doi.org/10.5840/wcp151973136), *Proceedings of the XVth World Congress of Philosophy*, vol. 1, pp. 205–210.
+- Elizabeth S. Anderson (1999) [What Is the Point of Equality?](https://doi.org/10.1086/233897), *Ethics*, vol. 109, pp. 287–337.
+- Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221.
 
 ### Prioritarismo
 
-- [@Parfit1997EqualityPriority].
-- [@Gustafsson2022ExAntePrioritarianism].
-- [@Greene2001IntuitionsDecliningMarginal].
+- Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221.
+- Johan E. Gustafsson (2022) [Ex-ante prioritarianism violates sequential ex-ante pareto](https://doi.org/10.1017/S0953820821000303), *Utilitas*, vol. 34, pp. 167–177.
+- Joshua Greene & Jonathan Baron (2001) [Intuitions about declining marginal utility](https://doi.org/10.1002/bdm.375), *Journal of Behavioral Decision Making*, vol. 14, pp. 243–255.
 
 ### Perspectivas ajustadas por merecimiento
 
-- [@Feldman1995AdjustingUtilityFor].
+- Fred Feldman (1995) [Adjusting utility for justice: a consequentialist reply to the objection from justice](https://doi.org/10.2307/2108439), *Philosophy and Phenomenological Research*, vol. 55, pp. 56–57.
 
 ### Egoísmo y parcialismo
 
-- [@Keller2013Partiality].
-- [@Parfit1984PartTwoRationality].
-- [@Mogensen2022OnlyEthicalArgument].
-- [@Jollimore2002Impartiality].
-- [@Goodin1988WhatSpecialOur].
+- Simon Keller (2013) [*Partiality*](https://worldcat.org/search?q=9780691154732), Princeton: Princeton University Press.
+- Derek Parfit (1984) [Part two: Rationality and time](https://worldcat.org/search?q=0-19-824908-X), en *Reasons and Persons*, Oxford: Clarendon Press.
+- Andreas L. Mogensen (2022) [The only ethical argument for positive δ? Partiality and pure time preference](https://doi.org/10.1007/s11098-022-01792-8), *Philosophical Studies*, vol. 179, pp. 2731–2750.
+- Troy Jollimore (2002) [Impartiality](https://plato.stanford.edu/archives/sum2022/entries/impartiality/), *Stanford Encyclopedia of Philosophy*, 25 de marzo (última actualización: 24 de agosto de 2021).
+- Robert E. Goodin (1988) [What is so special about our fellow countrymen?](https://doi.org/10.1086/292998), *Ethics*, vol. 98, pp. 663–686.
 
 ### Más allá del consecuencialismo
 
-- [@Taurek1977ShouldNumbersCount].
-- [@Ross1930RightGood].
-- [@Ashford2003DemandingnessScanlonContractualism].
+- John M. Taurek (1977) [Should the numbers count?](https://www.jstor.org/stable/2264945), *Philosophy & Public Affairs*, vol. 6, pp. 293–316.
+- William David Ross (1930) *The right and the good*, Oxford: Clarendon Press.
+- Elizabeth Ashford (2003) [The demandingness of Scanlon’s contractualism](https://doi.org/10.1086/342853), *Ethics*, vol. 113, pp. 273–302.
 
-[^1]: Se trata de una variación de "El último hombre", el famoso experimento mental de Richard Routley. Véase [@Routley1973IsThereNeed].
+[^1]: Se trata de una variación de "El último hombre", el famoso experimento mental de Richard Routley. Véase Richard Routley (1973) [Is there a need for a new, an environmental ethic](https://doi.org/10.5840/wcp151973136), *Proceedings of the XVth World Congress of Philosophy*, vol. 1, pp. 205–210.
 [^2]: Algunos afirman que la humanidad es perjudicial para el mundo en términos netos, de suerte que deberíamos desear la extinción humana. Pero es importante señalar que en realidad esto no es así: aunque la humanidad haya impuesto _hasta la fecha_ unos costos inmensos al entorno natural, es muy posible que las _futuras_ generaciones de la humanidad sean la mejor esperanza para deshacer ese daño. La extinción de la humanidad en el futuro cercano podría ser el peor resultado posible: todo el daño que ocasionamos en el pasado ya está hecho, pero nada de nuestro potencial futuro para remediarlo podría entonces materializarse. Si eso es cierto, incluso los ecologistas radicales deberían preocuparse (al menos instrumentalmente) por evitar la extinción humana.
 [^3]: Los pluralistas se enfrentan a problemas interesantes sobre cómo hacer intercambios que impliquen cantidades _muchísimo mayores_ del valor típicamente menos importante. ¿Podría un millón de árboles pesar más que una vida humana? ¿O compensar un _riesgo_ de muerte suficientemente pequeño para una persona? No vamos a intentar resolver este problema aquí, pero lo consideramos un desafío importante para cualquier punto de vista pluralista.
 [^4]: Nótese que una experiencia alucinatoria indistinguible subjetivamente (quizás generada por [una máquina de experiencias](./teorias-del-bienestar.md#la-objecion-de-la-maquina-de-experiencias)) no parece tan impresionante. Por supuesto, si la persona no se da cuenta de que está alucinando, se sentirá igual de impresionada. Pero podemos juzgar que su actitud valorativa está objetivamente menos justificada aquí que en el caso no alucinatorio.
-[^5]: [@Parfit1997EqualityPriority]. Véase la sátira de Vonnegut, [Harrison Bergeron](https://es.wikipedia.org/wiki/Harrison_Bergeron).
+[^5]: Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221. Véase la sátira de Vonnegut, [Harrison Bergeron](https://es.wikipedia.org/wiki/Harrison_Bergeron).
 [^6]: Se trata de un desacuerdo sutil, con implicaciones prácticas limitadas, siempre y cuando el igualitarista acepte la tesis sensata de que las pérdidas de bienestar derivadas de igualar hacia abajo tienen un efecto negativo en términos netos.
-[^7]: [@Parfit1997EqualityPriority, p. 213].
-[^8]: Los párrafos siguientes están tomados directamente de [@Chappell2021ParfitEthics].
+[^7]: Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221, p. 213.
+[^8]: Los párrafos siguientes están tomados directamente de Richard Yetter Chappell (2021) [*Parfit’s Ethics*](https://worldcat.org/search?q=978-1-108-73053-2), Cambridge: Cambridge University Press.
 [^9]:
     Suponemos, para simplificar, que el prioritarismo se aplica al bienestar en cada momento y no a lo largo de toda la vida. Para esta última perspectiva, la objeción debe modificarse para incluir comparaciones contrafácticas en lugar de temporales. Supongamos que Shane será más feliz si una moneda sale cara, y además puede otorgarse a sí mismo uno de dos beneficios condicionales: un beneficio mayor si la moneda sale cara, o un beneficio menor si sale cruz. Si los beneficios a los más desfavorecidos importan más, y él se ve desfavorecido cuando sale cruz, entonces el prioritarismo puede recomendar el 50 % de posibilidades de un beneficio menor (en caso de que salga cruz) como un opción superior al 50 % de posibilidades de un beneficio mayor. Pero esta no sería la elección prudente.
 
-    Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase [@Gustafsson2022ExAntePrioritarianism].
-[^10]: [@Greene2001IntuitionsDecliningMarginal].
-[^11]: Cf. [@Greene2013MoralTribes, chap. 10].
+    Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase Johan E. Gustafsson (2022) [Ex-ante prioritarianism violates sequential ex-ante pareto](https://doi.org/10.1017/S0953820821000303), *Utilitas*, vol. 34, pp. 167–177.
+[^10]: Joshua Greene & Jonathan Baron (2001) [Intuitions about declining marginal utility](https://doi.org/10.1002/bdm.375), *Journal of Behavioral Decision Making*, vol. 14, pp. 243–255.
+[^11]: Cf. Joshua D. Greene (2013) [*Moral Tribes*](https://worldcat.org/search?q=978-1 -59420-260-5), Nueva York: The Penguin Press, chap. 10.
 [^12]: Nótese que no se trata de la afirmación empírica de que la felicidad tendría mayores beneficios (instrumentales) para la persona más desfavorecida, por ejemplo, por inducirle un estado de ánimo más positivo. Eso puede ser cierto o no, pero si lo fuera, lo tendrían en cuenta incluso los utilitaristas tradicionales. No: los utilitaristas de bienes básicos decrecientes hacen la afirmación normativa más radical de que la misma cantidad de placer _constituye_ inherentemente un mayor beneficio _intrínseco_ para la persona más desfavorecida. El placer _en sí mismo_ supone una mayor diferencia para su bienestar, en el sentido de que tenemos razones prudenciales para preferir con más fuerza un aumento de tamaño fijo de nuestro placer o felicidad cuando estamos peor.
 [^13]: Una posible excepción podría ser que, si se diera una prioridad _extrema_ a los más desfavorecidos, esto podría llevar a destinar recursos de forma ineficiente a poblaciones de difícil acceso o difíciles de ayudar para obtener beneficios mínimos, cuando los utilitaristas recomendarían en cambio utilizar esos recursos para obtener mayores beneficios para un mayor número de personas (posiblemente en una situación ligeramente mejor).
 [^14]:
-    [@Feldman1995AdjustingUtilityFor].
+    Fred Feldman (1995) [Adjusting utility for justice: a consequentialist reply to the objection from justice](https://doi.org/10.2307/2108439), *Philosophy and Phenomenological Research*, vol. 55, pp. 56–57.
 
-    [@Graham2020AvoidableHarm].
+    Peter A. Graham (2020) [Avoidable harm](https://doi.org/10.1111/phpr.12586), *Philosophy and Phenomenological Research*, vol. 101, pp. 175–199.
 
 [^15]:
     [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham), por el contrario, asignó el mismo valor _intrínseco_ incluso "al placer más abominable que el más vil de los malhechores haya cosechado de su crimen."
 
-    [@Bennett2017Chapter2Principles].
+    Jeremy Bentham (2017) [Chapter 2: Principles opposing the principle of utility](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), en Jonathan Bennett (ed.), *An Introduction to the Principles of Morals and Legislation*, Early Modern Texts.
 [^16]: Un punto de vista alternativo que permitiría cierto descuento de los animales no humanos sería sopesar los intereses en proporción al estatus moral del individuo (y además sostener que los animales no humanos tienen un estatus moral inferior). Mientras que [los utilitaristas ya admiten](./utilitarismo-y-etica-practica.md#especismo) que algunos animales pueden tener una mayor capacidad para las experiencias conscientes que otros, este punto de vista alternativo afirmaría que incluso dolores iguales importan menos si los experimenta un animal "inferior". Pero incluso con un descuento moderado, es improbable que los graves daños causados por la cría intensiva de animales resulten justificables. Porque seguramente no deberíamos descontar tanto a los animales como para permitirnos torturarlos por diversión.
 [^17]: Los egoístas éticos afirman que _moralmente_ debes hacer lo que sea mejor para ti. Los egoístas racionales afirman que _racionalmente_ debes hacer lo que sea mejor para ti. Pero aquí consideramos que el egoísmo es la opinión de que _teniendo todo en cuenta_, lo que _realmente_ debes hacer es lo que sea mejor para ti. Es probable que esta afirmación sea respaldada tanto por los egoístas éticos como por los racionales.
-[^18]: Para una discusión clásica, véase [@Parfit1984PartTwoRationality].
-[^19]: Los filósofos llaman a esto una _opción_ o _prerrogativa centrada en el agente_. Véase [@Scheffler1994RejectionConsequentialismPhilosophical].
+[^18]: Para una discusión clásica, véase Derek Parfit (1984) [Part two: Rationality and time](https://worldcat.org/search?q=0-19-824908-X), en *Reasons and Persons*, Oxford: Clarendon Press.
+[^19]: Los filósofos llaman a esto una _opción_ o _prerrogativa centrada en el agente_. Véase Samuel Scheffler (1994) [*The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions*](https://worldcat.org/search?q=978-0-19-823510-1), 2.ª ed., Oxford: Clarendon Press.
 [^20]: Una opción sería aceptar un rango vago de ponderaciones permisibles, pero esto puede empezar a parecer misterioso.
 [^21]:
     Mogensen argumenta además que las consideraciones a largo plazo anegarán prácticamente _cualquier_ prerrogativa personal finitamente ponderada, incluso aquellas que inicialmente parezcan extremadamente inmoderadas (como dar un _millón_ de veces más peso a los intereses de aquellos por los que se es parcial).
 
-    [@Mogensen2021MoralDemandsFar].
+    Andreas Mogensen (2021) [Moral demands and the far future](https://doi.org/10.1111/phpr.12729), *Philosophy and Phenomenological Research*, vol. 103, pp. 567–585.
 
-[^22]: Por ejemplo, [@Taurek1977ShouldNumbersCount].
+[^22]: Por ejemplo, John M. Taurek (1977) [Should the numbers count?](https://www.jstor.org/stable/2264945), *Philosophy & Public Affairs*, vol. 6, pp. 293–316.
 [^23]:
     Incluso John Rawls, el padre de la ética contractualista y un destacado crítico del utilitarismo, se mantuvo comprometido con el aspecto central del consecuencialismo, escribiendo que “[t]odas las doctrinas éticas que merecen nuestra atención tienen en cuenta las consecuencias a la hora de juzgar la correción. Una que no lo hiciera sería simplemente irracional y loca."
 
-    [@Rawls1971TheoryJustice, p. 26].
+    John Rawls (1971) [*A Theory of Justice*](https://worldcat.org/search?q=0-674-01772-2), Cambridge, MA: The Belknap Press of Harvard University Press, p. 26.
 
 [^24]: Una salvedad importante: los no consecuencialistas pueden sentirse más atraídos por [las perspectivas centradas en las personas afectadas de la ética de la población](./etica-de-la-poblacion.md#las-perspectivas-centradas-en-las-personas-afectadas-y-la-asimetria-procreativa), lo que podría hacer que dieran mucha menos importancia a los intereses de las generaciones futuras.
-[^25]: Tomamos prestada esta metáfora de [@Parfit2011WhatMatters]. Parfit utilizó la metáfora del alpinismo para apoyar la afirmación más ambiciosa de que las diferentes tradiciones morales (consecuencialista, kantiana y contractualista) pueden acabar convergiendo en la misma _teoría_ moral. Nosotros no hacemos tal afirmación.
+[^25]: Tomamos prestada esta metáfora de Derek Parfit (2011) [*On What Matters*](https://worldcat.org/search?q=978-0-19-926592-3), Vols. 1–3 Oxford: Oxford University Press. Parfit utilizó la metáfora del alpinismo para apoyar la afirmación más ambiciosa de que las diferentes tradiciones morales (consecuencialista, kantiana y contractualista) pueden acabar convergiendo en la misma _teoría_ moral. Nosotros no hacemos tal afirmación.
 

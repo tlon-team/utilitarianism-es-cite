@@ -75,13 +75,13 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 
 ## Recursos y Más información
 
-- [@Gibbard1984UtilitarianismAndHuman].
-- [@Hare1981MoralThinkingIts].
-- [@Lazari-Radek2010SecrecyInConsequentialism].
-- [@Mackie1984RightsUtilityAnd].
-- [@Parfit1984ReasonsPersons].
-- [@Pettit1986RestrictiveConsequentialism].
-- [@Williams1973CritiqueOfUtilitarianism].
+- Allan Gibbard (1984) [Utilitarianism and human rights](https://doi.org/10.1017/S0265052500003897), *Social Philosophy and Policy*, vol. 1, pp. 92–102.
+- R. M. Hare (1981) [*Moral Thinking: Its Levels, Method, and Point*](https://worldcat.org/search?q=0-19-824660-9), Oxford: Clarendon Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2010) [Secrecy in consequentialism: a defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x), *Ratio*, vol. 23, pp. 34–58.
+- J. L. Mackie (1984) ‘Rights, utility, and universalization’, en R. G. Frey (ed.), *Utility and rights*, Minneapolis: University of Minnesota Press, pp. 86–105.
+- Derek Parfit (1984) [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press.
+- Philip Pettit & Geoffrey Brennan (1986) [Restrictive consequentialism](https://doi.org/10.1080/00048408612342631), *Australasian Journal of Philosophy*, vol. 64, pp. 438–455.
+- Bernard Williams (1973) [A critique of utilitarianism](https://worldcat.org/search?q=0-521-09822-X), en *Utilitarianism: For and Against*, Cambridge: Cambridge University Press, pp. 77–150.
 
 [^1]:
      También es notable que se represente a los superhéroes como agentes que ponen muy poco esfuerzo en la [priorización de causas](../actuar-conforme-al-utilitarismo.md#priorizacion-de-causas), generalmente luchando contra el crimen local cuando podrían (de forma más útil, pero mucho menos dramática) usar sus poderes de forma más amplia para hacer el bien a escala global — como [este cómic de SMBC](https://www.smbc-comics.com/comic/2011-07-13) ilustra satíricamente.
@@ -95,16 +95,16 @@ Es decir, [puntos de vista menos exigentes](./exigencia.md#atacar-las-alternativ
 [^4]:
 Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
 
-[^4a]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el [capítulo 2 de <cite>[@Mill2014Utilitarismo]</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
+[^4a]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el [capítulo 2 de [*El utilitarismo*](https://worldcat.org/search?q=978-84-206-8432-1), "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
 
 [^5]:
      O tal vez como una “[mentira para los niños](https://es.wikipedia.org/wiki/Mentira_para_los_ni%C3%B1os)” simplificada.
 
 [^6]:
-     Es famosa la observación de Bernard Williams de que "el destino del utilitarismo es desaparecer de la escena" ([@Williams1973CritiqueOfUtilitarianism, p. 134]). La idea de "moralidad esotérica" se encuentra en [@Sidgwick1874MethodsEthics], y fue criticada posteriormente (por sus tintes elitistas) como "utilitarismo de casa de gobierno". Pero sólo los puntos de vista absolutistas inverosímiles pueden descartar estrictamente la posibilidad de que el esoterismo pueda estar justificado en ocasiones. Para un debate más amplio, véase [@Lazari-Radek2010SecrecyInConsequentialism].
+     Es famosa la observación de Bernard Williams de que "el destino del utilitarismo es desaparecer de la escena" (Bernard Williams (1973) [A critique of utilitarianism](https://worldcat.org/search?q=0-521-09822-X), en *Utilitarianism: For and Against*, Cambridge: Cambridge University Press, pp. 77–150, p. 134). La idea de "moralidad esotérica" se encuentra en Henry Sidgwick (1874) *The Methods of Ethics*, Londres: Macmillan, y fue criticada posteriormente (por sus tintes elitistas) como "utilitarismo de casa de gobierno". Pero sólo los puntos de vista absolutistas inverosímiles pueden descartar estrictamente la posibilidad de que el esoterismo pueda estar justificado en ocasiones. Para un debate más amplio, véase Katarzyna de Lazari-Radek & Peter Singer (2010) [Secrecy in consequentialism: a defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x), *Ratio*, vol. 23, pp. 34–58.
 
 [^7]:
-Para un ejemplo histórico famoso, véase [@Mill1859Liberty], que defiende la importancia utilitarista de respetar la libertad ajena.
+Para un ejemplo histórico famoso, véase John Stuart Mill (1859) [On Liberty](https://worldcat.org/search?q=978-0-86597-650-4), en J. M. Robson (ed.), *The Collected Works of John Stuart Mill*, vol. 18, Toronto: University of Toronto Press, pp. 213–310, que defiende la importancia utilitarista de respetar la libertad ajena.
 
 [^8]:
      La [incertidumbre moral](https://altruismoeficaz.net/temas/incertidumbre-moral) también es relevante aquí, ya que no es necesario tener _máxima_ confianza en los puntos de vista deontológicos para que ejerzan un efecto moderador adicional.
@@ -113,7 +113,7 @@ Para un ejemplo histórico famoso, véase [@Mill1859Liberty], que defiende la im
 Al difundir la falsa idea de que el utilitarismo justifica fácilmente los abusos, los defensores de la objeción de la abusabilidad están, irónicamente, contribuyendo al mismo problema que les preocupa. Dados los [sólidos argumentos teóricos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md), es inevitable que muchas personas reflexivas se sientan atraídas por este punto de vista. Si empiezas a decirles que su punto de vista justifica atrocidades en la vida real, algunos de ellos podrían creerte. Eso sería malo, porque la afirmación es a la vez perjudicial y falsa. En consecuencia, es mejor promover una comprensión más sofisticada de la relación entre la teoría utilitarista y la práctica, haciendo hincapié en el valor de las reglas y heurísticas generalmente fiables, y en la poca fiabilidad de los cálculos burdos cuando entran en conflicto con heurísticas más fiables.
 
 [^10]:
-     Para la discusión de temas relacionados, véase la primera parte de [@Parfit1984ReasonsPersons].
+     Para la discusión de temas relacionados, véase la primera parte de Derek Parfit (1984) [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press.
 
 [^11]:
      Que una determinada creencia tenga efectos buenos o malos puede variar en función de los distintos individuos y contextos. Puede haber buenas razones para no mencionar a los niños de jardín de infantes la posibilidad de que las normas morales tengan excepciones en casos muy infrecuentes, por ejemplo.

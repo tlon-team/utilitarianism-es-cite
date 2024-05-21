@@ -110,46 +110,46 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 
 ## Recursos y más información
 
-- [@Brink2020ConsequentialismSeparatenessOf].
-- [@Chappell2021ParfitEthics, sec. 3.2].
-- [@Chappell2015ValueReceptacles].
-- [@Cohen2011RescuingConservatismDefense].
-- [@Dickert2015ScopeInsensitivityLimits].
-- [@Nozick1974AnarchyStateAnd].
-- [@Parfit2003JustifiabilityEachPerson].
-- [@Frankel2010UtilitarianismAggregationQuestion].
-- [@Rawls1971TheoryJustice].
-- [@Scanlon1998WhatWeOwe].
+- David O. Brink (2020) [Consequentialism, the separateness of persons, and aggregation](https://doi.org/10.1093/oxfordhb/9780190905323.013.14), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, Nueva York: Oxford University Press, pp. 378–400.
+- Richard Yetter Chappell (2021) [*Parfit’s Ethics*](https://worldcat.org/search?q=978-1-108-73053-2), Cambridge: Cambridge University Press, sec. 3.2.
+- Richard Yetter Chappell (2015) [Value receptacles](https://doi.org/10.1111/nous.12023), *Noûs*, vol. 49, pp. 322–332.
+- G. A. Cohen (2011) [Rescuing conservatism: a defense of existing value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009), en R. Jay Wallace, Rahul Kumar & Samuel Freeman (eds.), *Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon*, Oxford: Oxford University Press, pp. 203–230.
+- Stephan Dickert *et al.* (2015) [Scope insensitivity: the limits of intuitive valuation of human lives in public policy](https://doi.org/10.1016/j.jarmac.2014.09.002), *Journal of Applied Research in Memory and Cognition*, vol. 4, pp. 248–255.
+- Robert Nozick (1974) [*Anarchy, State, and Utopia*](https://worldcat.org/search?q=0-631-19780-X), Oxford: Blackwell.
+- Derek Parfit (2003) [Justifiability to each person](10.1046/j.1467-9329.2003.00229.x), *Ratio*, vol. 16, pp. 368–390.
+- Ellen Frankel Paul, Fred D. Miller Jr & Jeffrey Paul (eds.) (2010) [*Utilitarianism: The Aggregation Question*](https://worldcat.org/search?q=9780521756327), Cambridge: Cambridge University Press.
+- John Rawls (1971) [*A Theory of Justice*](https://worldcat.org/search?q=0-674-01772-2), Cambridge, MA: The Belknap Press of Harvard University Press.
+- T. M. Scanlon (1998) [*What We Owe to Each Other*](https://worldcat.org/search?q=0-674-95089-5), Cambridge, MA: The Belknap Press of Harvard University Press.
 
-[^1]: [@Rawls1971TheoryJustice, p. 27].
+[^1]: John Rawls (1971) [*A Theory of Justice*](https://worldcat.org/search?q=0-674-01772-2), Cambridge, MA: The Belknap Press of Harvard University Press, p. 27.
 [^2]:
 R.M. Hare insiste en el desafío: "Preocuparse por alguien es buscar su bien, o tratar de promover sus intereses; y preocuparse por igual por todas las personas es buscar igualmente su bien, o dar la misma importancia a sus intereses, que es exactamente lo que exige el utilitarismo. Hacer esto es tratar los intereses de los demás de la misma manera que una persona prudente trata sus propios intereses, presentes y futuros… Hacer esto no es dejar de 'insistir en la separación de las personas'". Véase:
-    [@Hare1984RightsUtilityAnd, p. 107].
+    R. M. Hare (1984) [Rights, utility, and universalization: Reply to J.L. Mackie](https://worldcat.org/search?q=9780816613199), en R. G. Frey (ed.), *Utility and Rights*, Minneapolis: University of Minnesota Press, pp. 106–120, p. 107.
 
-[^3]: [@Brink2020ConsequentialismSeparatenessOf].
-[^4]: [@Nozick1974AnarchyStateAnd, p. 33].
+[^3]: David O. Brink (2020) [Consequentialism, the separateness of persons, and aggregation](https://doi.org/10.1093/oxfordhb/9780190905323.013.14), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, Nueva York: Oxford University Press, pp. 378–400.
+[^4]: Robert Nozick (1974) [*Anarchy, State, and Utopia*](https://worldcat.org/search?q=0-631-19780-X), Oxford: Blackwell, p. 33.
 [^5]: Aunque otra línea de respuesta interesante sería apelar a un argumento de [velo de la ignorancia](../argumentos-a-favor-del-utilitarismo.md#el-velo-de-la-ignorancia). Mientras que el individuo que resulta perjudicado no es compensado por el perjuicio _en el momento_, cada individuo debería estar dispuesto _por adelantado_ (es decir, desde detrás del velo de la ignorancia) a aceptar compensaciones utilitaristas, ya que ésta es la mejor manera de maximizar su propio bienestar, en términos esperados.
-[^6]: [@Lazari-Radek2017UtilitarianismVeryShort, p. 82].
+[^6]: Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press, p. 82.
 [^7]:
     Brink señala que la propia visión igualitaria de Rawls a menudo requiere sacrificios no compensados de los ricos.
-    [@Brink2020ConsequentialismSeparatenessOf, p. 387].
+    David O. Brink (2020) [Consequentialism, the separateness of persons, and aggregation](https://doi.org/10.1093/oxfordhb/9780190905323.013.14), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, Nueva York: Oxford University Press, pp. 378–400, p. 387.
 
-[^8]: [@Singer2011PracticalEthics, p. 106].
-[^9]: Los siguientes párrafos están tomados directamente de [@Chappell2015ValueReceptacles].
-[^10]: Cf. [@Cohen2011RescuingConservatismDefense].
-[^11]: [@Chappell2015ValueReceptacles, p. 328].
+[^8]: Peter Singer (2011) [*Practical Ethics*](https://worldcat.org/search?q=978-0-521-70768-8), 3.ª ed., Cambridge: Cambridge University Press, p. 106.
+[^9]: Los siguientes párrafos están tomados directamente de Richard Yetter Chappell (2015) [Value receptacles](https://doi.org/10.1111/nous.12023), *Noûs*, vol. 49, pp. 322–332.
+[^10]: Cf. G. A. Cohen (2011) [Rescuing conservatism: a defense of existing value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009), en R. Jay Wallace, Rahul Kumar & Samuel Freeman (eds.), *Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon*, Oxford: Oxford University Press, pp. 203–230.
+[^11]: Richard Yetter Chappell (2015) [Value receptacles](https://doi.org/10.1111/nous.12023), *Noûs*, vol. 49, pp. 322–332, p. 328.
 [^12]: El "pluralismo de valores" se utiliza a menudo para referirse a la idea de múltiples _tipos_ o clases de valores distintos. Pero la forma relevante de pluralismo para garantizar la no fungibilidad es, en cambio, el pluralismo de _casos_. Los intereses de Bob y Sally pueden ser valores de la misma _clase_ (es decir, valor de bienestar), pero son valores individuales (o “casos” de valor) distintos en el sentido de que es apropiado tener un deseo intrínseco _separado_ para cada uno. Esto contrasta con el dinero, donde distintos billetes de 20 dólares no son _distintamente_ valiosos: sería extraño desear cada billete por separado, en lugar de tener un único deseo general de "más dinero" que cualquier billete de 20 dólares podría satisfacer igualmente bien.
-[^13]: [@Nagel1978JustificationOfEquality]. Reimpreso en [@Nagel1979MortalQuestions, p. 123].
-[^14]: [@Scanlon1998WhatWeOwe].
-[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en [@Parfit2003JustifiabilityEachPerson, p. 375].
-[^16]: Las siguientes subsecciones se extraen directamente de la sección 3.2 de [@Chappell2021ParfitEthics].
+[^13]: Thomas Nagel (1978) [The justification of equality](https://critica.filosoficas.unam.mx/index.php/critica/article/view/260), *Crítica*, vol. 10, pp. 3–33. Reimpreso en Thomas Nagel (1979) [*Mortal Questions*](https://worldcat.org/search?q=0-521-40676-5), Cambridge: Cambridge University Press, p. 123.
+[^14]: T. M. Scanlon (1998) [*What We Owe to Each Other*](https://worldcat.org/search?q=0-674-95089-5), Cambridge, MA: The Belknap Press of Harvard University Press.
+[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en Derek Parfit (2003) [Justifiability to each person](10.1046/j.1467-9329.2003.00229.x), *Ratio*, vol. 16, pp. 368–390, p. 375.
+[^16]: Las siguientes subsecciones se extraen directamente de la sección 3.2 de Richard Yetter Chappell (2021) [*Parfit’s Ethics*](https://worldcat.org/search?q=978-1-108-73053-2), Cambridge: Cambridge University Press.
 [^17]:
-    [@Parfit2003JustifiabilityEachPerson].
+    Derek Parfit (2003) [Justifiability to each person](10.1046/j.1467-9329.2003.00229.x), *Ratio*, vol. 16, pp. 368–390.
 
     ¿Qué pasa si los observadores se encuentran en una situación aún peor? Entonces la explicación de Parfit falla, pero él podría sugerir sin problemas en este caso que mejorar ligeramente la suerte de miles de millones de individuos en peor situación realmente debería ser prioritario respecto a ofrecer un gran alivio a un solo individuo que ya está en una situación mejor que la de estos otros.
 
-[^18]: [@Dickert2015ScopeInsensitivityLimits].
-[^19]: [@Parfit2003JustifiabilityEachPerson, p. 385].
-[^20]: Este texto sigue tomando directamente de la sección 3.2 de [@Chappell2021ParfitEthics].
+[^18]: Stephan Dickert *et al.* (2015) [Scope insensitivity: the limits of intuitive valuation of human lives in public policy](https://doi.org/10.1016/j.jarmac.2014.09.002), *Journal of Applied Research in Memory and Cognition*, vol. 4, pp. 248–255.
+[^19]: Derek Parfit (2003) [Justifiability to each person](10.1046/j.1467-9329.2003.00229.x), *Ratio*, vol. 16, pp. 368–390, p. 385.
+[^20]: Este texto sigue tomando directamente de la sección 3.2 de Richard Yetter Chappell (2021) [*Parfit’s Ethics*](https://worldcat.org/search?q=978-1-108-73053-2), Cambridge: Cambridge University Press.
 [^21]: Hay formas de imaginar el caso en las que esto no sería así. Por ejemplo, si imaginamos que damos los minutos extra de vida a cada persona en su lecho de muerte, los primeros minutos podrían carecer desproporcionadamente de valor, en comparación con un minuto de vida más representativo. Para probar adecuadamente los principios de agregación, debemos imaginar una situación en la que se cumpla el supuesto de independencia, por ejemplo, suponiendo que los minutos extra se conceden a las personas en algún momento anterior de su vida, antes de que aparezca la enfermedad mortal. De este modo, queda más claro que, en algunos casos, un solo minuto puede tener un valor significativo, al ser justo lo que el beneficiario necesitaba para completar algún proyecto vital importante.
 

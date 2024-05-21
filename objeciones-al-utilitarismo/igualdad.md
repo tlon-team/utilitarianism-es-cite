@@ -75,15 +75,15 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 
 ## Recursos y Más información
 
-- [@Crisp2003EqualityPriorityCompassion].
-- [@Ord2015NewCounterexamplePrioritarianism].
-- [@Parfit1997EqualityPriority].
-- [@Temkin1993Inequality].
-- [@Temkin2003EqualityPriorityWhat].
+- Roger Crisp (2003) [Equality, priority, and compassion](https://doi.org/10.1086/373954), *Ethics*, vol. 113, pp. 745–763.
+- Toby Ord (2015) [A new counterexample to prioritarianism](https://doi.org/10.1017/S0953820815000059), *Utilitas*, vol. 27, pp. 298–302.
+- Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221.
+- Larry S. Temkin (1993) [*Inequality*](https://worldcat.org/search?q=0-19-507860-8), Nueva York: Oxford University Press.
+- Larry S. Temkin (2003) [Equality, priority or what?](https://doi.org/10.1017/S0266267103001020[), *Economics and philosophy*, vol. 19, pp. 61–87.
 
-[^1]: [@Greene2013MoralTribes, chap. 10].
-[^2]: Cf. [@Drupp2018DiscountingDisentangled].
-[^3]: [@Parfit1997EqualityPriority].
+[^1]: Joshua D. Greene (2013) [*Moral Tribes*](https://worldcat.org/search?q=978-1 -59420-260-5), Nueva York: The Penguin Press, chap. 10.
+[^2]: Cf. Moritz A. Drupp *et al.* (2018) [Discounting disentangled](https://doi.org/10.1257/pol.20160240), *American Economic Journal: Economic Policy*, vol. 10, pp. 109–134.
+[^3]: Derek Parfit (1997) [Equality and priority](https://doi.org/10.1111/1467-9329.00041), *Ratio*, vol. 10, pp. 202–221.
 [^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](../elementos-y-tipos-de-utilitarismo.md#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](../alternativas-cercanas-al-utilitarismo.md#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
 [^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50 % de 200 de bienestar o de 0 de bienestar.
-[^6]: Cf. [@Harsanyi1955CardinalWelfareIndividualistic].
+[^6]: Cf. John C. Harsanyi (1955) [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://doi.org/10.1086/257678), *The Journal of Political Economy*, vol. 63, pp. 309–321.

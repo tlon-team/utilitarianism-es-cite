@@ -23,7 +23,7 @@ En el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitari
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
-> Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_ <br> - [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+> Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_ <br> - [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), [On Liberty](https://worldcat.org/search?q=978-0-86597-650-4)
 
 Muchos teóricos no consecuencialistas consideran que hay una diferencia moralmente relevante entre _[hacer daño y permitirlo](https://plato.stanford.edu/entries/doing-allowing/)_, incluso si las consecuencias de una acción o inacción son las mismas. Esta postura se conoce como la "doctrina de hacer y permitir", según la cual los daños causados por acciones —por cosas que hacemos activamente— son peores que los daños por omisión. Quienes sostienen esta doctrina pueden afirmar, por ejemplo, que es peor hacer daño a un niño, en igualdad de condiciones, que no evitar que ese mismo niño sufra daños en un accidente.
 
@@ -115,7 +115,7 @@ A veces la gente confunde el utilitarismo con la afirmación de que _uno siempre
 
 En cambio, como [teoría multinivel](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel), el utilitarismo especifica objetivos morales —criterios para juzgar objetivamente los méritos morales de una acción, dados todos los detalles fácticos relevantes—[^22] pero deja abierta la cuestión de qué tipo de _procedimiento de decisión_ deberíamos intentar seguir en la práctica. Al fin y al cabo, es una cuestión empírica abierta cuál es la mejor manera de alcanzar realmente los objetivos morales especificados.
 
-El utilitarismo implica que debemos utilizar el procedimiento de decisión que mejor nos ayude a promover el bienestar general (en términos esperados). Aunque no podemos estar seguros de qué procedimiento de decisión satisface este criterio, podemos hacer algunas conjeturas. Como afirman los psicólogos Stefan Schubert y Lucius Caviola en <cite>[@Schubert2023SchubertStefan]</cite>, la mejor forma de promover el bienestar general es perseguir ambiciosamente [acciones que ayuden eficazmente a los demás](./actuar-conforme-al-utilitarismo.md), minimizando al mismo tiempo los riesgos de consecuencias negativas mediante la adopción de virtudes y restricciones de sentido común.
+El utilitarismo implica que debemos utilizar el procedimiento de decisión que mejor nos ayude a promover el bienestar general (en términos esperados). Aunque no podemos estar seguros de qué procedimiento de decisión satisface este criterio, podemos hacer algunas conjeturas. Como afirman los psicólogos Stefan Schubert y Lucius Caviola en [Virtues for real-world utilitarians](https://utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians/), la mejor forma de promover el bienestar general es perseguir ambiciosamente [acciones que ayuden eficazmente a los demás](./actuar-conforme-al-utilitarismo.md), minimizando al mismo tiempo los riesgos de consecuencias negativas mediante la adopción de virtudes y restricciones de sentido común.
 
 Es un hecho ampliamente reconocido que los humanos no somos fiables a la hora de calcular utilidades,[^23] especialmente cuando entran en conflicto con reglas y heurísticas generalmente fiables (como las que prohíben dañar a otras personas). En consecuencia, no podemos tomar al pie de la letra los cálculos de valor esperado que infringen las normas. Incluso si has calculado que asesinar a tu rival daría lugar, de algún modo, a un bien mayor, deberías ser muy escéptico de que esto sea realmente así. Al fin y al cabo, si no crees realmente que en general sería mejor para los demás (en situaciones similares) hacer lo mismo, entonces debes creer que la mayor parte de los cálculos que favorecen el asesinato han salido mal. Por lo tanto, si no tienes evidencia especial (que rompa la simetría) que demuestre que tú, en particular, eres la rara excepción a esta regla, entonces debes concluir que es sumamente probable que tus propios cálculos a favor del asesinato hayan salido mal.[^24] De modo que, en ausencia de evidencia especial de este tipo, debes concluir que romper las reglas tiene un valor esperado menor, a pesar de tus cálculos iniciales en sentido contrario.
 
@@ -151,70 +151,70 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 ### ¿Hay alguna diferencia entre hacer daño y permitirlo?
 
-- [@Woollard2002DoingVs].
-- [@Bennett1995ActItself].
+- Fiona Woollard & Frances Howard-Snyder (2002) [Doing vs. allowing harm](https://plato.stanford.edu/archives/win2022/entries/doing-allowing/), *Stanford Encyclopedia of Philosophy*, 14 de mayo (última actualización: 1 de diciembre de 20222).
+- Jonathan Bennett (1995) [*The Act Itself*](https://worldcat.org/search?q=0-19-823548-8), Oxford: Clarendon Press.
 
 ### La ampliación del círculo moral
 
-- [@Singer1997DrowningChildAnd].
-- [@Singer1981ExpandingCircleEthics].
+- Peter Singer (1997) [The drowning child and the expanding circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist), *New Internationalist*, 5 de abril.
+- Peter Singer (1981) [*The Expanding Circle: Ethics and Sociobiology*](https://worldcat.org/search?q=978-0-19-824646-6), Oxford: Clarendon Press.
 
 ### Cosmopolitismo: ampliar el círculo moral en la dimensión goegráfica
 
-- [@Crashcourse2017PovertyOurResponse].
-- [@Singer2009LifeYouCan]. (el libro está disponible para su descarga gratuita).
-- [@Singer2016FamineAffluenceMorality].
-- [@Scheffler1999ConceptionsCosmopolitanism].
+- CrashCourse (2017) [Poverty & our response to it: Crash Course Philosophy #44](https://www.youtube.com/watch?v=D5sknLy7Smo), *CrashCourse*, 30 de enero.
+- Peter Singer (2009) [*The Life You Can Save: Acting Now to End World Poverty*](https://worldcat.org/search?q=978-0-8129-8156-8), Nueva York: Random House. (el libro está disponible para su descarga gratuita).
+- Peter Singer (2016) [*Famine, affluence, and morality*](https://worldcat.org/search?q=978-0-19-021920-8), Oxford: Oxford University Press.
+- Samuel Scheffler (1999) [Conceptions of cosmopolitanism](https://doi.org/10.1017/S0953820800002508), *Utilitas*, vol. 11, pp. 255–276.
 
 ### Antiespecismo: ampliar el círculo moral en la dimensión de la especie
 
-- [@Crashcourse2017NonHumanAnimals].
-- [@Singer2023AnimalLiberationNow].
+- CrashCourse (2017) [Non-human animals: Crash Course Philosophy #42](https://www.youtube.com/watch?v=y3-BX-jN_Ac), *CrashCourse*, 16 de enero.
+- Peter Singer (2023) [*Animal Liberation Now*](https://worldcat.org/search?q=9781635768435), New York: Diversion Books.
 - [@McMahan2003Animales].
-- [@Sebo2019UtilitarianCaseFor].
+- Jeff Sebo (2019) [A utilitarian case for animal rights](https://www.youtube.com/watch?v=vELWCTgA9oA), *Effective Altruism Global*, 18 de diciembre.
 
 ### Largoplacismo: ampliar el círculo moral en la dimensión temporal
 
-- [@Ord2020PrecipiceExistentialRisk].
-- [@Greaves2021CaseStrongLongtermism].
-- [@Beckstead2013OverwhelmingImportanceShaping].
-- [@Bostrom2003AstronomicalWasteOpportunity].
-- [@MacAskill2022WhatWeOwe].
+- Toby Ord (2020) [*The Precipice: Existential Risk and the Future of Humanity*](https://worldcat.org/search?q=1-5266-0021-8), Londres: Bloomsbury Publishing.
+- Hilary Greaves & William MacAskill (2021) [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/), GPI Working Paper No. 5-2021, Global Priorities Institute, Universidad de Oxford.
+- Nick Beckstead (2013) [*On the Overwhelming Importance of Shaping the Far Future*](https://doi.org/10.7282/T35M649T), tesis doctoral, Universidad Rutgers.
+- Nick Bostrom (2003) [Astronomical waste: The opportunity cost of delayed technological development](https://doi.org/10.1017/S0953820800004076), *Utilitas*, vol. 15, pp. 308–314.
+- William MacAskill (2022) [*What We Owe the Future*](https://worldcat.org/search?q=978-1-5416-1862-6), Nueva York: Basic Books.
 
 ### Respetar las normas morales de sentido común
 
-- [@Gibbard1984UtilitarianismAndHuman].
-- [@Hare1981MoralThinkingIts].
+- Allan Gibbard (1984) [Utilitarianism and human rights](https://doi.org/10.1017/S0265052500003897), *Social Philosophy and Policy*, vol. 1, pp. 92–102.
+- R. M. Hare (1981) [*Moral Thinking: Its Levels, Method, and Point*](https://worldcat.org/search?q=0-19-824660-9), Oxford: Clarendon Press.
 - [@Mackie1984DerechosUtilitariosY].
-- [@Pettit1986RestrictiveConsequentialism].
+- Philip Pettit & Geoffrey Brennan (1986) [Restrictive consequentialism](https://doi.org/10.1080/00048408612342631), *Australasian Journal of Philosophy*, vol. 64, pp. 438–455.
 
-[^1]: [@Sidgwick1907MethodsEthics, p. 414].
-[^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase [@Singer2009LifeYouCan].
-[^3]: [@GiveWell2010YourDollarGoes].
+[^1]: Henry Sidgwick (1907) *The Methods of Ethics*, 7.ª ed., Londres: Macmillan, p. 414.
+[^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase Peter Singer (2009) [*The Life You Can Save: Acting Now to End World Poverty*](https://worldcat.org/search?q=978-0-8129-8156-8), Nueva York: Random House.
+[^3]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
 [^4]: [@Berman2018ImpedimentosAltruismoEficaz].
-[^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en [@SentiencePolitics2016BenefitsCauseneutrality].
-[^6]: [@Ord2013MoralImperativeCosteffectiveness].
-[^7]: Cf. [@Singer1981ExpandingCircleEthics].
-[^8]: [@Singer2011PracticalEthics, p. 50].
-[^9]: Cf. [@MacAskill2015DoingGoodBetter, chap. 1].
-[^10]: [@Singer2002AnimalLiberation, p. 9]. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. [@Caviola2019MoralStandingAnimals].
+[^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en Sentience Politics (2016) [The benefits of cause-neutrality](https://web.archive.org/web/20160403060915/https://sentience-politics.org/en/philosophy/the-benefits-of-cause-neutrality/), *Sentience Politics*, abril.
+[^6]: Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, March.
+[^7]: Cf. Peter Singer (1981) [*The Expanding Circle: Ethics and Sociobiology*](https://worldcat.org/search?q=978-0-19-824646-6), Oxford: Clarendon Press.
+[^8]: Peter Singer (2011) [*Practical Ethics*](https://worldcat.org/search?q=978-0-521-70768-8), 3.ª ed., Cambridge: Cambridge University Press, p. 50.
+[^9]: Cf. William MacAskill (2015) [*Doing Good Better: How Effective Altruism Can Help You Make a Difference*](https://worldcat.org/search?q=978-1-59240-966-2), Nueva York: Random House, chap. 1.
+[^10]: Peter Singer (2002) [*Animal Liberation*](https://worldcat.org/search?q=0-06-001157-2), 3.ª ed., Nueva York: HarperCollins, p. 9. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. Lucius Caviola, Jim A. C. Everett & Nadira S. Faber (2019) [The moral standing of animals: Towards a psychology of speciesism](https://doi.org/10.1037/pspp0000182), *Journal of Personality and Social Psychology*, vol. 116, pp. 1011–1029.
 [^11]: Por ejemplo, véase [@Low2012CambridgeDeclaraciónConciencia].
 [^12]: [@Tomasik2019CuántosSalvajes].
 [^13]:
-    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995BienestarBiologíaEvolucionaria]. [@McMahan2015MoralProblemPredation]. [@Moen2016EthicsOfWild].
+    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995BienestarBiologíaEvolucionaria]. Jeff McMahan (2015) [The moral problem of predation](https://doi.org/10.4324/9780203154410-23), en Andrew Chignell, Terence Cuneo & Matthew Halteman (eds.), *Philosophy Comes to Dinner: Arguments about the Ethics of Eating*, Nueva York: Routledge, pp. 268–294. Ole Martin Moen (2016) [The Ethics of Wild Animal Suffering](https://doi.org/10.5324/eip.v10i1.1972), *Etikk i Praksis - Nordic Journal of Applied Ethics*, 1, pp. 91–104.
 [^14]:
-    Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: [@Wiblin2019AnimalsWildOften].
-[^15]: [@Adams2008LongtermAstrophysicalProcesses].
-[^16]: Para un debate sobre esta idea y sus supuestos subyacentes, véase [@Beckstead2013OverwhelmingImportanceShaping].
-[^17]: Cf. [@Greaves2021CaseStrongLongtermism, sec. 4.1].
-[^18]: Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, véase [@Ord2020PrecipiceExistentialRisk].
-[^19]: Para un artículo clásico sobre la importancia de reducir el riesgo existencial, véase [@Bostrom2013ExistentialRiskPrevention].
+    Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: Robert Wiblin & Keiran Harris (2019) [Animals in the wild often suffer a great deal. What, if anything, should we do about that?](https://80000hours.org/podcast/episodes/persis-eskander-wild-animal-welfare/), *80,000 Hours*, 15 de abril.
+[^15]: Fred C. Adams (2008) [Long-term astrophysical processes](https://doi.org/10.1093/oso/9780198570509.003.0006), en Nick Bostrom & Milan M. Ćirković (eds.), *Global Catastrophic Risks*, Oxford: Oxford University Press, pp. 33–47.
+[^16]: Para un debate sobre esta idea y sus supuestos subyacentes, véase Nick Beckstead (2013) [*On the Overwhelming Importance of Shaping the Far Future*](https://doi.org/10.7282/T35M649T), tesis doctoral, Universidad Rutgers.
+[^17]: Cf. Hilary Greaves & William MacAskill (2021) [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/), GPI Working Paper No. 5-2021, Global Priorities Institute, Universidad de Oxford, sec. 4.1.
+[^18]: Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, véase Toby Ord (2020) [*The Precipice: Existential Risk and the Future of Humanity*](https://worldcat.org/search?q=1-5266-0021-8), Londres: Bloomsbury Publishing.
+[^19]: Para un artículo clásico sobre la importancia de reducir el riesgo existencial, véase Nick Bostrom (2013) [Existential risk prevention as global priority](https://doi.org/10.1111/1758-5899.12002), *Global Policy*, vol. 4, pp. 15–31.
 [^20]: Nótese que el profesor William MacAskill, coautor de este sitio web, también es coautor de este artículo.
 [^21]: Como explica [el capítulo 2](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel): “que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos. Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.”
 [^22]:
      Estos detalles podrían estipularse simplemente en un ejemplo hipotético. En los casos de la vida real, nuestra incertidumbre sobre los detalles relevantes de los hechos debería llevarnos a tener la misma incertidumbre sobre nuestros veredictos y evaluaciones morales.
 [^23]:
-     Véase, por ejemplo, [@Mackie1984RightsUtilityAnd].
+     Véase, por ejemplo, J. L. Mackie (1984) ‘Rights, utility, and universalization’, en R. G. Frey (ed.), *Utility and rights*, Minneapolis: University of Minnesota Press, pp. 86–105.
 [^24]:
      En particular, no puedes tomar al pie de la letra tu inclinación a pensar que hay razones especiales en tu caso, si crees que la mayoría de las personas en situaciones subjetivamente similares se equivocan al considerar que tienen tales razones especiales. La evidencia que rompe la simetría es aquella que establece _de forma distintiva_ tu fiabilidad en comparación con la de otras personas con creencias similares (pero, en su caso, equivocadas). Nótese que es muy difícil obtener este tipo de evidencia.
 [^25]:

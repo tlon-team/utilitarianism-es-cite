@@ -29,7 +29,7 @@ Uno de los intentos más destacados e influyentes de crear una teoría de este t
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la correcta, el razonamiento moral utilitarista tiene un sólido historial de contribución al progreso moral colectivo de la humanidad, lo que sugiere que al menos puede haber algo moralmente saludable en estas ideas. Los utilitaristas clásicos de los siglos <abbr>XVIII</abbr> y <abbr>XIX</abbr> tenían actitudes sociales y políticas muy adelantadas a su tiempo: como reformador social progresista, [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) defendió cuestiones como la separación de la Iglesia y el Estado; la abolición de la esclavitud y de la pena de muerte; regulaciones jurídicas para proteger a los criminales y a los animales no humanos del trato cruel;[^3] y la despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre la homosexualidad eran tan liberales que su editor los ocultó al público tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
 
-[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo <cite>[@Mill1869SubjectionOfWomen]</cite>,[^6] Mill sostenía que
+[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo [The Subjection of Women](https://worldcat.org/search?q=978-0-86597-650-4),[^6] Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los dos sexos —la subordinación jurídica de un sexo al otro— es moralmente incorrecto en sí mismo, y actualmente uno de los principales obstáculos para el mejoramiento humano; y que debería ser sustituido por un principio de perfecta igualdad, que no admita ningún poder o privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
@@ -85,23 +85,23 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 ### Introducción
 
 - [@Crashcourse2016UtilitarismoCrashCourse].
-- [@Lazari-Radek2017UtilitarianismVeryShort].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
+- Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press.
+- Krister Bykvist (2010) [*Utilitarianism: A Guide for the Perplexed*](https://worldcat.org/search?q=978-0-8264-9808-3), Londres: Continuum.
 - [@2023WhatIsUtilitarianism].
 
 ### Los Clásicos
 
-- [@Bentham2017IntroductionToPrinciples].
-- [@Mill2005Utilitarianism].
-- [@Sidgwick2011MethodsOfEthics].
+- Jeremy Bentham (2017) [*An Introduction to the Principles of Morals and Legislation*](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), edición de Jonathan Bennett, Early Modern Texts.
+- John Stuart Mill (2005) [*Utilitarianism*](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf), edición de Jonathan Bennett, Early Modern Texts.
+- Henry Sidgwick (2011) [*The Methods of Ethics*](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), edición de Jonathan Bennett, Early Modern Texts.
 
 ### Más información
 
 - [@Driver2022HistoriaDelUtilitarismo].
 - [@Schultz2017FelicidadVidaDeLosFilósofos].
-- [@Crimmins2013BloomsburyEncyclopediaUtilitarianism].
-- [@Parfit2011WhatMatters].
-- [@Ng1990WelfarismUtilitarianismRehabilitation].
+- James E. Crimmins (ed.) (2013) [*The Bloomsbury Encyclopedia of Utilitarianism*](https://doi.org/10.5040/9781350021679), Londres: Bloomsbury Academic.
+- Derek Parfit (2011) [*On What Matters*](https://worldcat.org/search?q=978-0-19-926592-3), Vols. 1–3 Oxford: Oxford University Press.
+- Yew-Kwang Ng (1990) [Welfarism and utilitarianism: a rehabilitation](https://doi.org/10.1017/S0953820800000650), *Utilitas*, vol. 2, pp. 171–193.
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
@@ -109,23 +109,23 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 [^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 
-    [@Bentham2017IntroductionToPrinciples, pp. 143–4|291]
+    Jeremy Bentham (2017) [*An Introduction to the Principles of Morals and Legislation*](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), edición de Jonathan Bennett, Early Modern Texts, pp. 143–4|291
 
     "¿Por qué la ley habría de negar su protección a un ser sensible? Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo que respira. Hemos comenzado por atender a la condición de los esclavos; terminaremos por aliviar la de todos los animales que asisten nuestros trabajos o satisfacen nuestras necesidades."
 
-    [@Bentham1838PrinciplesOfPenal, p. 162]
+    Jeremy Bentham (1838) ‘Principles of penal law’, en John Bowring (ed.), *The Works of Jeremy Bentham*, vol. 1, Edinburgo: William Tait, pp. 365–580, p. 162
 
-[^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y [@CamposBoralevi1984BenthamOppressed].
+[^4]: Cfr. Jeremy Bentham (2017) [*An Introduction to the Principles of Morals and Legislation*](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), edición de Jonathan Bennett, Early Modern Texts; y Lea Campos Boralevi (1984) [*Bentham and the Oppressed*](https://doi.org/10.1515/9783110869835), Berlín: Walter de Gruyter.
 	
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
-[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase [@Mill2016Autobiography, p. 166].
+[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase John Stuart Mill (2016) [*Autobiography*](https://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf), edición de Jonathan Bennett, Early Modern Texts, p. 166.
 
-[^7]: [@Mill1869SubjectionOfWomen, p. 1].
+[^7]: John Stuart Mill (1869) [The Subjection of Women](https://worldcat.org/search?q=978-0-86597-650-4), en J. M. Robson (ed.), *The Collected Works of John Stuart Mill*, vol. 21, Toronto: University of Toronto Press, pp. 259–340, p. 1.
 
-[^8]: Sobre la pobreza extrema véase [@Singer2009LifeYouCan].
+[^8]: Sobre la pobreza extrema véase Peter Singer (2009) [*The Life You Can Save: Acting Now to End World Poverty*](https://worldcat.org/search?q=978-0-8129-8156-8), Nueva York: Random House.
 
-    Sobre la cría intensiva de animales véase [@Singer2023AnimalLiberationNow].
+    Sobre la cría intensiva de animales véase Peter Singer (2023) [*Animal Liberation Now*](https://worldcat.org/search?q=9781635768435), New York: Diversion Books.
 
 [^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](./etica-de-la-poblacion.md) en el capítulo 5.
 

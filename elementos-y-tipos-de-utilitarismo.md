@@ -236,162 +236,162 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 ### Consecuencialismo
 
-- [@Driver2012Consequentialism].
-- [@Scheffler1994RejectionConsequentialismPhilosophical].
-- [@Sinnott-Armstrong2003Consequentialism].
+- Julia Driver (2012) [*Consequentialism*](https://worldcat.org/search?q=978-0-415-77257-0), Londres: Routledge.
+- Samuel Scheffler (1994) [*The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions*](https://worldcat.org/search?q=978-0-19-823510-1), 2.ª ed., Oxford: Clarendon Press.
+- Walter Sinnott-Armstrong (2003) [Consequentialism](https://plato.stanford.edu/entries/consequentialism/), *Stanford Encyclopedia of Philosophy*, 20 de mayo (última actualización: 3 de junio de 2019).
 
 ### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar)
 
-- [@Crisp2001Wellbeing].
-- [@Holtug2003WelfarismVeryIdea].
-- [@Kagan1992LimitsWellbeing].
+- Roger Crisp (2001) [Well-being](https://plato.stanford.edu/entries/well-being/), *Stanford Encyclopedia of Philosophy*, 6 de noviembre (última actualización: 6 de septiembre de 2017).
+- Nils Holtug (2003) [Welfarism - the Very Idea](https://doi.org/10.1017/S0953820800003927), *Utilitas*, vol. 15, pp. 151–174.
+- Shelly Kagan (1992) [The limits of well-being](https://doi.org/10.1017/S0265052500001461), *Social Philosophy and Policy*, vol. 9, pp. 169–189.
 
 ### Imparcialidad
 
-- [@Goodin1988WhatSpecialOur].
-- [@Jollimore2002Impartiality].
+- Robert E. Goodin (1988) [What is so special about our fellow countrymen?](https://doi.org/10.1086/292998), *Ethics*, vol. 98, pp. 663–686.
+- Troy Jollimore (2002) [Impartiality](https://plato.stanford.edu/archives/sum2022/entries/impartiality/), *Stanford Encyclopedia of Philosophy*, 25 de marzo (última actualización: 24 de agosto de 2021).
 
 ### Agregationism
 
-- [@Broome1991WeighingGoodsEquality, ch. 4, 10].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@Norcross1997ComparingHarmsHeadaches].
+- John Broome (1991) [*Weighing Goods: Equality, Uncertainty and Time*](https://doi.org/10.1002/9781119451266), Cambridge MA: Basil Blackwell, ch. 4, 10.
+- Krister Bykvist (2010) [*Utilitarianism: A Guide for the Perplexed*](https://worldcat.org/search?q=978-0-8264-9808-3), Londres: Continuum.
+- Alastair Norcross (1997) [Comparing harms: headaches and human lives](https://doi.org/10.1111/j.1088-4963.1997.tb00079.x), *Philosophy & Public Affairs*, vol. 26, pp. 135–167.
 
 ### Hedonismo
 
-- [@Crisp2006HedonismReconsidered].
-- [@Feldman2004PleasureGoodLife].
-- [@Kagan1992LimitsWellbeing].
-- [@Moen2016ArgumentForHedonism].
-- [@Moore2004Hedonism].
+- Roger Crisp (2006) [Hedonism reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x), *Philosophy and Phenomenological Research*, vol. 73, pp. 619–645.
+- Fred Feldman (2004) [*Pleasure and the Good Life*](https://doi.org/10.1093/019926516X.001.0001), Oxford: Oxford University Press.
+- Shelly Kagan (1992) [The limits of well-being](https://doi.org/10.1017/S0265052500001461), *Social Philosophy and Policy*, vol. 9, pp. 169–189.
+- Ole Martin Moen (2016) [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9), *The Journal of Value Inquiry*, vol. 50, pp. 267–281.
+- Andrew Moore (2004) [Hedonism](https://plato.stanford.edu/entries/hedonism/), *Stanford Encyclopedia of Philosophy*, 20 de abril.
 
 ### Ética de la población
 
-- [@Arrhenius2006RepugnantConclusion].
-- [@Arrhenius2000FutureGenerationsChallenge].
-- [@Greaves2017PopulationAxiology].
-- [@Gustafsson2022OurIntuitiveGrasp].
-- [@Huemer2008DefenceRepugnance].
-- [@Parfit1984ReasonsPersons].
+- Gustaf Arrhenius, Jesper Ryberg & Torbjörn Tännsjö (2006) [The repugnant conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/), *Stanford Encyclopedia of Philosophy*, 16 de febrero (última actualización: 16 de enero de 2017).
+- Gustaf Arrhenius (2000) [*Future Generations: A Challenge for Moral Theory*](https://swepub.kb.se/bib/swepub:oai:DiVA.org:uu-787?tab2=abs&language=en), tesis doctoral, Uppsala University.
+- Hilary Greaves (2017) [Population axiology](https://doi.org/10.1111/phc3.12442), *Philosophy Compass*, vol. 12, pp. 1–15.
+- Johan E. Gustafsson (2022) [Our intuitive grasp of the repugnant conclusion](https://worldcat.org/search?q=978-0-19-090768-6), en Gustaf Arrhenius, Krister Bykvist & Tim Campbell (eds.), *The Oxford Handbook of Population Ethics*, Nueva York: Oxford University Press, pp. 371–390.
+- Michael Huemer (2008) [In defence of repugnance](https://doi.org/10.1093/mind/fzn079), *Mind*, vol. 117, pp. 899–933.
+- Derek Parfit (1984) [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press.
 
 ### Utilitarismo maximizador, satisfaccionista y escalar
 
-- [@Bradley2006AgainstSatisficingConsequentialism].
-- [@Chappell2020DeonticPluralismAnd].
-- [@Chappell2019WillpowerSatisficing].
-- [@Norcross2020MoralityByDegrees].
-- [@NorcrossScalarApproachUtilitarianism].
-- [@Sinhababu2018ScalarConsequentialismRight].
+- Ben Bradley (2006) [Against Satisficing Consequentialism](https://doi.org/10.1017/S0953820806001877), *Utilitas*, vol. 18, pp. 97–108.
+- Richard Yetter Chappell (2020) [Deontic Pluralism and the Right Amount of Good](https://doi.org/10.1093/oxfordhb/9780190905323.013.10), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, 1.ª ed., Oxford University Press, pp. 498–512.
+- Richard Yetter Chappell (2019) [Willpower Satisficing](https://doi.org/10.1111/nous.12213), *Noûs*, vol. 53, pp. 251–265.
+- Alastair Norcross (2020) [*Morality by Degrees: Reasons without Demands*](https://worldcat.org/search?q=9780198844990), Nueva York: Oxford University Press.
+- Alastair Norcross (s. f.) ‘The Scalar Approach to Utilitarianism’,.
+- Neil Sinhababu (2018) [Scalar Consequentialism the Right Way](https://doi.org/10.1007/s11098-017-0998-y), *Philosophical Studies*, vol. 175, pp. 3131–3144.
 
 ### Utilitarismo de expectativas frente a utilitarismo objetivo
 
-- [@Crisp1997RoutledgePhilosophyGuidebook, pp. 99–101].
-- [@Graham2021SubjectiveVersusObjective].
-- [@Jackson1991DecisiontheoreticConsequentialismNearest].
+- Roger Crisp (1997) [*Routledge Philosophy Guidebook to Mill on Utilitarianism*](https://worldcat.org/search?q=978-0-415-10977-2), Londres: Routledge, pp. 99–101.
+- Peter A. Graham (2021) [*Subjective versus Objective Moral Wrongness*](https://doi.org/10.1017/9781108588249), 1.ª ed., Cambridge University Press.
+- Frank Jackson (1991) [Decision-theoretic consequentialism and the nearest and dearest objection](https://doi.org/10.1086/293312), *Ethics*, vol. 101, pp. 461–482.
 
 ### El utilitarismo multinivel frente al utilitarismo de un solo nivel
 
-- [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
-- [@Hare1981MoralThinkingIts]
-- [@Railton1984AlienationConsequentialismDemands].
+- Roger Crisp (1997) [*Routledge Philosophy Guidebook to Mill on Utilitarianism*](https://worldcat.org/search?q=978-0-415-10977-2), Londres: Routledge, pp. 105–112.
+- R. M. Hare (1981) [*Moral Thinking: Its Levels, Method, and Point*](https://worldcat.org/search?q=0-19-824660-9), Oxford: Clarendon Press
+- Peter Railton (1984) [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273), *Philosophy & Public Affairs*, vol. 13, pp. 134–171.
 
 ### Utilitarismo global y utilitarismo híbrido
 
-- [@Mcelwee2019AmbitionsOfConsequentialism].
-- [@Chappell2012FittingnessSoleNormative].
-- [@Chappell2024ConsequentialismCoreAnd].
-- [@Ord2009ActionApplyingConsequentialism].
-- [@Pettit2000GlobalConsequentialism].
+- Brian McElwee (2019) [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528), *Journal of Ethics and Social Philosophy*, vol. 17, 2.
+- Richard Yetter Chappell (2012) [Fittingness: the Sole Normative Primitive](https://doi.org/10.1111/j.1467-9213.2012.00075.x), *The Philosophical Quarterly*, vol. 62, pp. 684–704.
+- Richard Yetter Chappell (2024) ‘Consequentialism: core and expansion’, edición de David Copp, Tina Rulli & Connie Rosati, Oxford: Oxford University Press.
+- Toby Ord (2009) [*Beyond Action: Applying Consequentialism to Decision Making and Motivation*](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.508590), tesis doctoral, Universidad de Oxford.
+- Philip Pettit & Michael Smith (2000) [Global consequentialism](https://worldcat.org/search?q=9780742509702), edición de Brad Hooker, Elinor Mason & Dale E. Miller, Lanham, Md: Rowman & Littlefield.
 
 [^1]: Algunos otros casos en los que las etiquetas pueden inducir a error: el té de hierbas no es un tipo de té; una flor de plástico no es un tipo de flor; y el lémur volador no es un lémur y no vuela.
 [^2]:
     Por ejemplo, Hooker escribe: "La viabilidad de esta defensa del consecuencialismo de las reglas contra la objeción de incoherencia puede depender en parte de cuál se supone que sea el argumento a favor del consecuencialismo de las reglas. La defensa parece menos viable si el argumento a favor del consecuencialismo de las reglas parte de un compromiso con la evaluación consecuencialista. Pues partir de tal compromiso se asemeja demasiado a partir de un compromiso predominante de maximizar el bien esperado. La defensa contra la objeción de incoherencia parece mucho más sólida, sin embargo, si el argumento a favor del consecuencialismo de las reglas es que esta teoría moral es mejor que cualquier otra para especificar una justificación imparcial de reglas morales intuitivamente plausibles."
 
-    [@Hooker1990Ruleconsequentialism].
+    Brad Hooker (1990) [Rule-consequentialism](https://doi.org/10.1093/mind/XCIX.393.67), *Mind*, vol. XCIX, pp. 67–77.
 
 [^3]: Asignar valor adicional a las distribuciones del bienestar (por ejemplo, a las más equitativas) va más allá del bienestarismo, ya que implica que hay algo intrínsecamente valioso que es diferente del bienestar mismo.
-[^4]: [@Sidgwick1874MethodsEthics, p. 186].
+[^4]: Henry Sidgwick (1874) *The Methods of Ethics*, Londres: Macmillan, p. 186.
 [^5]: Para una discusión más detallada, véase [La objeción de las obligaciones especiales](./objeciones-al-utilitarismo/obligaciones-especiales.md).
 
 [^6]: En principio, otros métodos de agregación (como la multiplicación o algo más complejo) son concebibles. Pero aquí nos centramos en la forma aditiva del agregacionismo, ya que es, con mucho, el punto de vista más común.
 [^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](./etica-de-la-poblacion.md) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos recomiendan elecciones implausibles que, cuando se repiten un número suficiente de veces en la población, empeoran la situación de todos.
 
-    [@Parfit2003JustifiabilityEachPerson, pp. 368–390].
+    Derek Parfit (2003) [Justifiability to each person](10.1046/j.1467-9329.2003.00229.x), *Ratio*, vol. 16, pp. 368–390, pp. 368–390.
 
 [^8a]:
     Técnicamente, una tercera posibilidad sería reducir el número de vidas negativas. De hecho, muchos utilitaristas apoyan la eutanasia (voluntaria), basándose en el reconocimiento de que una vida de sufrimiento puede ser peor que ninguna vida.
 
-    Véase, por ejemplo, [@Singer1993PracticalEthics, ch. 7].
+    Véase, por ejemplo, Peter Singer (1993) [*Practical Ethics*](https://worldcat.org/search?q=0-521-43363-0), 2.ª ed., Cambridge: Cambridge University Press, ch. 7.
 
 [^9]:
     La noción de vida positiva, crucial para la perspectiva total, solo tiene sentido en relación con un punto cero en la escala del bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66–68].
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase John Broome (2004) [*Weighing Lives*](https://doi.org/10.1093/019924376X.001.0001), Oxford: Oxford University Press, pp. 66–68.
 
 [^10]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
 
-    [@Bentham1789IntroductionPrinciplesMorals, ch. 1].
+    Jeremy Bentham (1789) *An Introduction to the Principles of Morals and Legislation*, Londres: T. Payne & Son, ch. 1.
 
-    [@Mill2022Utilitarianism, ch. 1].
+    John Stuart Mill (2022) [*Utilitarianism*](https://worldcat.org/search?q=9780393441161), edición de Katarzyna de Lazari-Radek & Peter Singer, Nueva York: W.W. Norton & Company, ch. 1.
 
 [^11]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
 [^12]:
-    [@Railton1988HowThinkingAbout, p. 407].
+    Peter Railton (1988) [How thinking about character and utilitarianism might lead to rethinking the character of utilitarianism](https://doi.org/10.1111/j.1475-4975.1988.tb00135.x), *Midwest Studies in Philosophy*, vol. 13, pp. 398–416, p. 407.
 
-    [@Norcross2020MoralityByDegrees].
+    Alastair Norcross (2020) [*Morality by Degrees: Reasons without Demands*](https://worldcat.org/search?q=9780198844990), Nueva York: Oxford University Press.
 
 [^13]:
-    Para una discusión de este punto de vista, véase [@Pettit1984SatisficingConsequentialism].
+    Para una discusión de este punto de vista, véase Philip Pettit & Michael Slote (1984) [Satisficing consequentialism](https://doi.org/10.1093/aristoteliansupp/58.1.139), *Aristotelian Society Supplementary Volume*, vol. 58, pp. 139–176.
 
-[^14]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en [@Chappell2019WillpowerSatisficing].
-[^15]: Véase, por ejemplo, [@Chappell2020DeonticPluralismAnd].
-[^16]: [@Norcross2020MoralityByDegrees].
+[^14]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en Richard Yetter Chappell (2019) [Willpower Satisficing](https://doi.org/10.1111/nous.12213), *Noûs*, vol. 53, pp. 251–265.
+[^15]: Véase, por ejemplo, Richard Yetter Chappell (2020) [Deontic Pluralism and the Right Amount of Good](https://doi.org/10.1093/oxfordhb/9780190905323.013.10), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, 1.ª ed., Oxford University Press, pp. 498–512.
+[^16]: Alastair Norcross (2020) [*Morality by Degrees: Reasons without Demands*](https://worldcat.org/search?q=9780198844990), Nueva York: Oxford University Press.
 [^17]:
 Neil Sinhababu propone una forma de consecuencialismo escalar que considera que lo correcto y lo incorrecto son en sí mismos cuestiones de grado, pero el punto límite entre ambos depende del contexto de la conversación y no de algo moralmente fundamental (o, de hecho, genuinamente significativo en modo alguno). En consecuencia, parece una variante meramente verbal de la definición que utilizamos aquí.
 
-     [@Sinhababu2018ScalarConsequentialismRight].
+     Neil Sinhababu (2018) [Scalar Consequentialism the Right Way](https://doi.org/10.1007/s11098-017-0998-y), *Philosophical Studies*, vol. 175, pp. 3131–3144.
 
-[^18]: [@Chappell2020DeonticPluralismAnd].
-[^19]: [@Jackson1991DecisiontheoreticConsequentialismNearest].
+[^18]: Richard Yetter Chappell (2020) [Deontic Pluralism and the Right Amount of Good](https://doi.org/10.1093/oxfordhb/9780190905323.013.10), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, 1.ª ed., Oxford University Press, pp. 498–512.
+[^19]: Frank Jackson (1991) [Decision-theoretic consequentialism and the nearest and dearest objection](https://doi.org/10.1086/293312), *Ethics*, vol. 101, pp. 461–482.
 [^20]: En línea con la explicación anterior del bienestarismo, los utilitaristas de cualquier tipo entienden el "valor" en términos de bienestar.
 [^21]:
-    [@Bales1971ActutilitarianismAccountRightmaking].
+    R. Eugene Bales (1971) ‘Act-utilitarianism : account of right-making characteristics or decision-making procedure?’, *American Philosophical Quarterly*, vol. 8, pp. 257–265.
 
-    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
+    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase Roger Crisp (1997) [*Routledge Philosophy Guidebook to Mill on Utilitarianism*](https://worldcat.org/search?q=978-0-415-10977-2), Londres: Routledge, pp. 105–112.
 
 [^22]:
-    [@Hare1981MoralThinkingIts].
+    R. M. Hare (1981) [*Moral Thinking: Its Levels, Method, and Point*](https://worldcat.org/search?q=0-19-824660-9), Oxford: Clarendon Press.
 
-    [@Railton1984AlienationConsequentialismDemands].
+    Peter Railton (1984) [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273), *Philosophy & Public Affairs*, vol. 13, pp. 134–171.
 
 [^23]:
     Jeremy Bentham rechazó el utilitarismo de un solo nivel, escribiendo que "no es de esperar que este proceso [el cálculo de las consecuencias esperadas] deba seguirse estrictamente antes de cada juicio moral."
 
-    [@Bentham1789IntroductionPrinciplesMorals, ch. 4].
+    Jeremy Bentham (1789) *An Introduction to the Principles of Morals and Legislation*, Londres: T. Payne & Son, ch. 4.
 
     Henry Sidgwick está de acuerdo: escribe que "el fin que da el criterio de rectitud no tiene por qué ser siempre el fin al que conscientemente aspiramos; y si la experiencia demuestra que la felicidad general se alcanzará mejor si los hombres actúan frecuentemente por motivos distintos de la pura filantropía universal, esos otros motivos son preferibles según los principios utilitaristas".
 
-    [@Sidgwick1874MethodsEthics, bk. 4, ch. 1].
+    Henry Sidgwick (1874) *The Methods of Ethics*, Londres: Macmillan, bk. 4, ch. 1.
 
-[^24]: [@Sinnott-Armstrong2003Consequentialism].
+[^24]: Walter Sinnott-Armstrong (2003) [Consequentialism](https://plato.stanford.edu/entries/consequentialism/), *Stanford Encyclopedia of Philosophy*, 20 de mayo (última actualización: 3 de junio de 2019).
 [^25]:
 Los defensores del consecuencialismo global lo han presentado como una desviación del consecuencialismo de los actos tradicional, pero esta afirmación ha sido objeto de controversia. Para la defensa del consecuencialismo global como un enfoque diferente, véase:
 
-    [@Pettit2000GlobalConsequentialism].
+    Philip Pettit & Michael Smith (2000) [Global consequentialism](https://worldcat.org/search?q=9780742509702), edición de Brad Hooker, Elinor Mason & Dale E. Miller, Lanham, Md: Rowman & Littlefield.
 
-    [@Ord2009ActionApplyingConsequentialism].
+    Toby Ord (2009) [*Beyond Action: Applying Consequentialism to Decision Making and Motivation*](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.508590), tesis doctoral, Universidad de Oxford.
 
     Para críticas, véase:
 
-    [@Mcelwee2019AmbitionsOfConsequentialism].
+    Brian McElwee (2019) [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528), *Journal of Ethics and Social Philosophy*, vol. 17, 2.
 
-    [@Chappell2012FittingnessSoleNormative].
+    Richard Yetter Chappell (2012) [Fittingness: the Sole Normative Primitive](https://doi.org/10.1111/j.1467-9213.2012.00075.x), *The Philosophical Quarterly*, vol. 62, pp. 684–704.
 
     Este último artículo sostiene que el consecuencialismo global se entiende mejor como una variante meramente verbal del consecuencialismo de los actos.
 
-[^26]: [@Driver2001ConsequentialistTheoryOf].
-[^27]: [@Hurka2001VirtueViceValue].
-[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". [@Parfit2011WhatMattersVolume, p. 50].
-[^29]: Para una mayor defensa de este punto de vista, véase [@Chappell2024ConsequentialismCoreAnd].
+[^26]: Julia Driver (2001) [A consequentialist theory of virtue](https://worldcat.org/search?q=0-521-78172-8), en *Uneasy Virtue*, Cambridge: Cambridge University Press, pp. 63–83.
+[^27]: Thomas Hurka (2001) [*Virtue, vice and value*](https://worldcat.org/search?q=0-19-513716-7), Oxford: Oxford University Press.
+[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". Derek Parfit (2011) [*On What Matters: Volume 1*](https://worldcat.org/search?q=9780199572809), Oxford: Oxford University Press, p. 50.
+[^29]: Para una mayor defensa de este punto de vista, véase Richard Yetter Chappell (2024) ‘Consequentialism: core and expansion’, edición de David Copp, Tina Rulli & Connie Rosati, Oxford: Oxford University Press.

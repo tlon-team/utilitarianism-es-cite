@@ -73,14 +73,14 @@ Pero puede haber otras objeciones, estrechamente relacionadas, que la gente a ve
 
 ## Recursos y más información
 
-- [@Kerstein2019TreatingPersonsAs].
-- [@Parfit2011WhatMattersVolume, chap. 9: Merely as a means].
+- Samuel Kerstein (2019) [Treating persons as means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), *Stanford Encyclopedia of Philosophy*, 13 de abril.
+- Derek Parfit (2011) [*On What Matters: Volume 1*](https://worldcat.org/search?q=9780199572809), Oxford: Oxford University Press, chap. 9: Merely as a means.
 
 [^1]: En sentido estricto, esta objeción se aplica a todas las teorías consecuencialistas (agregativas). Las respuestas que ofrecemos en nombre del utilitarismo en este artículo se aplicarían igualmente en defensa de otras teorías consecuencialistas.
-[^2]: [@Kant1785GrundlegungZurMetaphysik, p. 429|10].
+[^2]: Immanuel Kant (1785) ‘Grundlegung zur Metaphysik der Sitten’, edición de Preussische Akademie der Wissenschaften, Berlin: Georg Reiner, p. 429|10.
 [^3]: Específicamente, estarían dispuestos a sacrificar bienes que sumaran una pérdida de valor de bienestar igual o menor, para aliviar esta carga.
-[^4]: Cf. [@Parfit2011WhatMattersVolume, cap. 9: Merely as a means].
-[^5]: [@Kamm1998AreThereIrrelevant, p. 147].
+[^4]: Cf. Derek Parfit (2011) [*On What Matters: Volume 1*](https://worldcat.org/search?q=9780199572809), Oxford: Oxford University Press, cap. 9: Merely as a means.
+[^5]: Frances M. Kamm (1998) [Are there irrelevant utlities?](https://doi.org/10.1093/0195119118.003.0009), en *Morality, Mortality Volume I: Death and Whom to Save From It*, Oxford: Oxford University Press, pp. 144–164, p. 147.
 [^6]: En sentido estricto, sus intereses tienen la misma importancia, pero si su esperanza de vida restante es menor que la de los niños (y, por tanto, está en juego un menor bienestar futuro), el valor intrínseco de su vida futura puede ser _menor_ que el de los que aún tienen más tiempo de vida.
 [^7]: Gracias a Toby Ord por sugerir esta variante.
 [^8]: Por ejemplo, pueden afirmar que no se debe tratar a las personas de un modo que no consientan o que no puedan consentir razonablemente.
