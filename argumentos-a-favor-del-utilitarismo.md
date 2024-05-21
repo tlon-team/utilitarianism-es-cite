@@ -186,7 +186,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 [^H3]: Caspar Hare (2016) [Should we wish well to all?](https://doi.org/10.1215/00318108-3624764), *The Philosophical Review*, vol. 125, pp. 451–472, pp. 454–455.
 
-[^H4]: [Should we wish well to all?](https://doi.org/10.1215/00318108-3624764) discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
+[^H4]: El artículo [Should we wish well to all?](https://doi.org/10.1215/00318108-3624764) discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
 
 [^11]: Peter Singer (2011) [*The Expanding Circle: Ethics, Evolution, and Moral Progress*](https://worldcat.org/search?q=978-1-4008-3843-1), Princeton: Princeton University Press.
 [^12]: Evan G. Williams (2015) [The possibility of an ongoing moral catastrophe](https://doi.org/10.1007/s10677-015-9567-7), *Ethical Theory and Moral Practice*, vol. 18, pp. 971–982.
@@ -200,7 +200,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^19]: Timothy Chappell (2011) [Intuition, system, and the “paradox” of deontology](https://doi.org/10.1017/CBO9780511973789.013), en Lawrence Jost & Julian Wuerth (eds.), *Perfecting Virtue*, 1.ª ed., Cambridge University Press, pp. 271–288.
 [^20]: El deontólogo puede insistir en que debería ser más importante _para Jack_, aunque no lo sea para nadie más. Pero esto se opone a la idea atractiva de que el punto de vista moral es imparcial y capaz de producir veredictos sobre los que observadores razonables (y no sólo el propio agente) podrían estar de acuerdo.
 [^21]:
-    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot (Philippa Foot (1967) ‘The problem of abortion and the doctrine of double effect’, *Oxford Review*, vol. 5, pp. 5–15, p. 26): "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine."
+    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot: "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine" (Philippa Foot (1967) ‘The problem of abortion and the doctrine of double effect’, *Oxford Review*, vol. 5, pp. 5–15, p. 26).
 
 [^22]: Tom L. Beauchamp (2020) [Justifying physician-assisted deaths](https://worldcat.org/search?q=9781119358862), edición de Hugh LaFollette, en 5.ª ed., Hoboken, Nueva Jersey: Wiley, pp. 78–85.
 [^23]: Jonathan Bennett (1995) [*The Act Itself*](https://worldcat.org/search?q=0-19-823548-8), Oxford: Clarendon Press.
