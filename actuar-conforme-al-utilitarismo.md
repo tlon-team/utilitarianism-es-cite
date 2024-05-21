@@ -253,7 +253,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^33]:
     GiveWell (2019) [Your dollar goes further when you fund the right program](https://www.givewell.org/giving101/Funding-the-Right-Program), *GiveWell*.
 
-    Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, March.
+    Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, marzo.
 
 [^34]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
 [^35]: Betsey Stevenson & Justin Wolfers (2013) [Subjective well-being and income: is there any evidence of satiation?](https://doi.org/10.3386/w18992), CESifo documento de trabajo n.º 4222, w18992, National Bureau of Economic Research.

@@ -193,7 +193,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 [^3]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
 [^4]: Jonathan Z. Berman *et al.* (2018) [Impediments to effective altruism: The role of subjective preferences in charitable giving](https://doi.org/10.1177/0956797617747648), *Psychological Science*, vol. 29, pp. 834–844.
 [^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en Sentience Politics (2016) [The benefits of cause-neutrality](https://web.archive.org/web/20160403060915/https://sentience-politics.org/en/philosophy/the-benefits-of-cause-neutrality/), *Sentience Politics*, abril.
-[^6]: Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, March.
+[^6]: Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, marzo.
 [^7]: Cf. Peter Singer (1981) [*The Expanding Circle: Ethics and Sociobiology*](https://worldcat.org/search?q=978-0-19-824646-6), Oxford: Clarendon Press.
 [^8]: Peter Singer (2011) [*Practical Ethics*](https://worldcat.org/search?q=978-0-521-70768-8), 3.ª ed., Cambridge: Cambridge University Press, p. 50.
 [^9]: Cf. William MacAskill (2015) [*Doing Good Better: How Effective Altruism Can Help You Make a Difference*](https://worldcat.org/search?q=978-1-59240-966-2), Nueva York: Random House, chap. 1.

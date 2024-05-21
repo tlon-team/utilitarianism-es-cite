@@ -102,7 +102,7 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
 - James Lenman (2000) [Consequentialism and cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x), *Philosophy & Public Affairs*, vol. 29, pp. 342–370.
 - Andreas Mogensen (2020) [Maximal cluelessness](https://doi.org/10.1093/pq/pqaa021), *The Philosophical Quarterly*, vol. 71, pp. 141–162.
 - Andreas Mogensen & William MacAskill (2021) [The paralysis argument](https://quod.lib.umich.edu/p/phimp/3521354.0021.015/1), *Philosophers’ Imprint*, vol. 21, 15.
-- David Thorstad & Andreas Mogensen (2020) [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/), June.
+- David Thorstad & Andreas Mogensen (2020) [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/), junio.
 
 [^1]:
      Es decir, las consideraciones que cuentan a favor de actuar de una manera y no de otra.
@@ -134,7 +134,7 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
      Para una exploración sobre si el mundo está superpoblado o infrapoblado, véase Toby Ord (2014) [Overpopulation or Underpopulation?](https://worldcat.org/search?q=978-0-19-967777-1), en Ian Goldin (ed.), *Is the Planet Full?*, Oxford: Oxford University Press, pp. 46–60.
 
 [^10]:
-Para una defensa relacionada de la "racionalidad procedimental" de confiar en las heurísticas ante una situación de incertidumbre radical, véase David Thorstad & Andreas Mogensen (2020) [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/), June.
+Para una defensa relacionada de la "racionalidad procedimental" de confiar en las heurísticas ante una situación de incertidumbre radical, véase David Thorstad & Andreas Mogensen (2020) [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/), junio.
 
      Que valga la pena evaluar las inquietudes relativas a la superpoblación más a fondo dependerá de factores como (i) cuántos recursos están en juego (es plausible que una organización que dona miles de millones de dólares tenga más razones para investigar que un particular que dona cientos de dólares) y (ii) lo tratable que parezca la incertidumbre, o cuál es el valor de la información que se espera de una investigación más exhaustiva. Para un pequeño donante con pocas posibilidades de resolver rápidamente su incertidumbre, a menudo lo más razonable será ignorar por completo la incertidumbre radical.
 
