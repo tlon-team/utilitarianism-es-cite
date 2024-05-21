@@ -180,7 +180,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
 ### Salud y desarrollo globales
 
-- Peter Singer (2009) [*The Life You Can Save*](https://worldcat.org/search?q=978-1-7336727-0-2), tenth anniversary edition, Sydney: The Life You Can Save.
+- Peter Singer (2009) [*The Life You Can Save*](https://worldcat.org/search?q=978-1-7336727-0-2), tenth anniversary edition, Sídney: The Life You Can Save.
 - Toby Ord (2019) [The moral imperative toward cost-effectiveness in global health](https://doi.org/10.1093/oso/9780198841364.003.0002), en Hilary Greaves & Theron Pummer (eds.), *Effective Altruism: Philosophical Issues*, Oxford: Oxford University Press, pp. 29–36.
 - Peter Unger (1996) [*Living High and Letting Die: Our Illusion of Innocence*](https://worldcat.org/search?q=978-0-19-507589-2), Nueva York: Oxford University Press.
 
@@ -262,3 +262,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^38]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de 80.000 Horas.
 [^39]: Cf. Benjamin Todd (2014) [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/), *80,000 Hours*, 2 de agosto.
 [^40]: Tenga en cuenta que el profesor William MacAskill, coautor de este sitio web, es el autor de varios de los recursos enumerados sobre altruismo eficaz. Además, es cofundador tanto de 80.000 Horas como de Giving What We Can.
+
+<!-- Local Variables: -->
+<!-- jinx-local-words: "Bureau CESifo Consequentialism Consumer Decision Does Early Economic Essays Handbook Hours Indicators Inequality Introduction Is Issues Judgment Making March Modern Objections Paper Perspectives Philosophers Philosophical Policy Poverty Psychology Random Save Sense Sentience Texts Working You act acting altruism and anniversary authors avorecer buttons cgdev chap content cost ctuar definition descripcion description detail draft edition eds effective effectiveness false far future generalesl gradientBottom gradientTop health how iii immorally imperative means menu next objection on page permissive publications shaping tell tenth title to toward type ualquiera us utilitarianism weight www xix" -->
+<!-- End: -->
