@@ -26,7 +26,7 @@ La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo
 
 ![Distribución mundial de la renta](./imagenes/actuar-conforme-al-utilitarismo/figura-1.png)
 
-> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. [@GivingWhatWeCan2019HowRichAm].
+> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. Giving What We Can (2019) [How rich am I? World income percentile calculator: global rich list](https://howrichami.givingwhatwecan.org/how-rich-am-i?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0), *Giving What We Can*.
 
 La riqueza y la renta exhiben lo que los economistas llaman _utilidad marginal decreciente_.[^3] La idea es simple: el grado en que aumenta el bienestar de una persona que recibe mayores ingresos depende de sus ingresos actuales. Aunque las personas más ricas dicen estar más satisfechas con su vida en general, cuanto más rico se es, menos bienestar se obtiene con una misma cantidad adicional de dinero. Un agricultor pobre de Kenia se beneficiará mucho más de recibir un dólar extra que un miembro de la clase media de un país rico.
 
@@ -108,7 +108,7 @@ Por lo tanto, la extinción de la especie humana privaría irreversiblemente a l
 
 Trabajar para que el futuro a largo plazo de la humanidad sea bueno no sólo es muy importante, sino que también está muy desatendido. Las personas del futuro no pueden influir en las decisiones que tomamos hoy en nuestros sistemas económicos y políticos; no participan en los mercados ni tienen voto. En esencia, los individuos del futuro no tienen voz. En este contexto, no es de extrañar que nuestra generación desatienda sistemáticamente los intereses y el bienestar de los muchos individuos que existirán en el futuro.
 
-Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos <cite>[@Ord2020PrecipiceExistentialRisk]</cite>.
+Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos [*The Precipice*](https://worldcat.org/search?q=1-5266-0021-8).
 
 ## Caminos hacia el impacto
 
@@ -156,15 +156,15 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
 ### General
 
-- [@Singer1993PracticalEthics].
-- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 6].
+- Peter Singer (1993) [*Practical Ethics*](https://worldcat.org/search?q=0-521-43363-0), 2.ª ed., Cambridge: Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press, chap. 6.
 
 ### Altruismo eficaz
 
-- [@MacAskill2017EffectiveAltruismIntroduction].[^40]
-- [@MacAskill2015DoingGoodBetter].
-- [@MacAskill2018WhatAreMost].
-- [@Singer2023WhyAndHow].
+- William MacAskill (2017) [Effective altruism: Introduction](https://doi.org/10.7710/1526-0569.1580), *Essays in Philosophy*, vol. 18, p. 1580.[^40]
+- William MacAskill (2015) [*Doing Good Better: How Effective Altruism Can Help You Make a Difference*](https://worldcat.org/search?q=978-1-59240-966-2), Nueva York: Random House.
+- William MacAskill (2018) [What are the most important moral problems of our time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time), *TED*, abril.
+- Peter Singer (2013) [The why and how of effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism), *TED*, marzo.
 - Sitios web y organizaciones relevantes para el altruismo eficaz:
   - [Biblioteca Altruismo Eficaz](https://www.altruismoeficaz.net/): Sitio web que ofrece recursos en línea sobre el altruismo eficaz.
   - [GiveWell](https://www.givewell.org/): Evaluador de organizaciones benéficas cuyo objetivo es encontrar oportunidades de donación excepcionales.
@@ -173,92 +173,92 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
   - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Incubadora de organizaciones benéficas que ayuda a poner en marcha múltiples organizaciones benéficas de gran impacto cada año.
 - Podcasts sobre altruismo eficaz y utilitarismo:
   - [Effective altruism: an introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). Colección de diez episodios del pódcast de 80.000 Horas.
-  - [@Harris2021DoingGoodConversation].
-  - [@Harris2016WhatMoralProgress].
+  - Sam Harris (2021) [Doing good: a conversation with Will MacAskill](https://www.samharris.org/podcasts/making-sense-episodes/228-doing-good), *Making Sense*, 14 de diciembre.
+  - Sam Harris (2016) [What is moral progress? A conversation with Peter Singer](https://www.samharris.org/podcasts/making-sense-episodes/what-is-moral-progress), *Making Sense*, 21 de octubre.
   - [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932). Pódcast sobre utilitarismo presentado por Gus Docker.
   
 
 ### Salud y desarrollo globales
 
-- [@Singer2009LifeYouCan1].
-- [@Ord2019MoralImperativeCosteffectiveness].
-- [@Unger1996LivingHighLetting].
+- Peter Singer (2009) [*The Life You Can Save*](https://worldcat.org/search?q=978-1-7336727-0-2), tenth anniversary edition, Sydney: The Life You Can Save.
+- Toby Ord (2019) [The moral imperative toward cost-effectiveness in global health](https://doi.org/10.1093/oso/9780198841364.003.0002), en Hilary Greaves & Theron Pummer (eds.), *Effective Altruism: Philosophical Issues*, Oxford: Oxford University Press, pp. 29–36.
+- Peter Unger (1996) [*Living High and Letting Die: Our Illusion of Innocence*](https://worldcat.org/search?q=978-0-19-507589-2), Nueva York: Oxford University Press.
 
 ### Bienestar animal en las granjas
 
-- [@Sebo2020ConsequentialismNonhumanAnimals].
-- [@Wiblin2021LewisBollardBig].
-- [@Whittlestone2017AnimalWelfare].
+- Jeff Sebo & Tyler John (2020) [Consequentialism and nonhuman animals](https://doi.org/10.1093/oxfordhb/9780190905323.013.32), en Douglas W. Portmore (ed.), *The Oxford Handbook of Consequentialism*, Nueva York: Oxford University Press, pp. 563–591.
+- Robert Wiblin & Keiran Harris (2021) [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/), *80,000 Hours*, 15 de febrero.
+- Jess Whittlestone (2017) [Animal welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare), *Effective Altruism*, 16 de noviembre.
 
 ### Riesgos existenciales
 
-- [@Ord2020PrecipiceExistentialRisk].
-- [@Bostrom2013ExistentialRiskPrevention].
+- Toby Ord (2020) [*The Precipice: Existential Risk and the Future of Humanity*](https://worldcat.org/search?q=1-5266-0021-8), Londres: Bloomsbury Publishing.
+- Nick Bostrom (2013) [Existential risk prevention as global priority](https://doi.org/10.1111/1758-5899.12002), *Global Policy*, vol. 4, pp. 15–31.
 
-[^1]: Consejos de Bentham a una joven en 1830. [@Bentham2002DeontologyTogetherTable, p. xix].
+[^1]: Consejos de Bentham a una joven en 1830. Jeremy Bentham (1983) [*Deontology: Together with a Table of the Springs of Action and the Article on Utilitarianism*](https://worldcat.org/search?q=978-0-19-822609-3), edición de Amnon Goldworth, Oxford: Clarendon Press, p. xix.
 [^2]:
     Se estima que 734 millones de personas vivían en la pobreza extrema en 2015, lo que significa que ganaban menos de 1,90 dólares al día (a precios de 2011). Así, unos ingresos anuales de 35.000 dólares corresponden a 50 veces los ingresos anuales de una persona que vive justo por debajo del umbral de la pobreza extrema.
 
     The World Bank, *Poverty & Inequality Indicators**. [Agregación regional que usa la paridad del poder adquisitivo (PPA) del 2011 y una línea de pobreza de $1.9/día](https://pip.worldbank.org/poverty-calculator).
 
-[^3]: Cf. [@Drupp2018DiscountingDisentangled].
-[^4]: [@GiveWell2010YourDonationCan].
-[^5]: [@GiveWell2013MassDistributionLonglasting].
+[^3]: Cf. Moritz A. Drupp *et al.* (2018) [Discounting disentangled](https://doi.org/10.1257/pol.20160240), *American Economic Journal: Economic Policy*, vol. 10, pp. 109–134.
+[^4]: GiveWell (2010) [Your donation can change someone’s life](https://www.givewell.org/giving101/Changing-Someones-Life), *GiveWell*.
+[^5]: GiveWell (2013) [Mass distribution of long-lasting insecticide-treated nets (LLINs)](https://www.givewell.org/international/technical/programs/insecticide-treated-nets), *GiveWell*, noviembre (última actualización: julio de 2021).
 [^6]:
     En 2013, Peter Singer dio una [charla TED sobre altruismo eficaz](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=es).
 
-    Para una introducción más detallada y reciente sobre el altruismo eficaz, véase [@MacAskill2017EffectiveAltruismIntroduction].
-[^7]: Para una discusión filosófica detallada del altruismo eficaz, véanse los 16 artículos incluidos en [@Greaves2019EffectiveAltruismPhilosophical].
+    Para una introducción más detallada y reciente sobre el altruismo eficaz, véase William MacAskill (2017) [Effective altruism: Introduction](https://doi.org/10.7710/1526-0569.1580), *Essays in Philosophy*, vol. 18, p. 1580.
+[^7]: Para una discusión filosófica detallada del altruismo eficaz, véanse los 16 artículos incluidos en Hilary Greaves & Theron Pummer (eds.) (2019) [*Effective Altruism: Philosophical Issues*](https://doi.org/10.1093/oso/9780198841364.001.0001), Oxford: Oxford University Press.
 [^8]:
     "Es cierto que el altruismo eficaz tiene algunas similitudes con el utilitarismo: es maximizador, se centra principalmente en mejorar el bienestar, muchos miembros de la comunidad hacen sacrificios significativos con el fin de tener un mayor impacto, y muchos miembros de la comunidad se definen como utilitaristas."
 
-    [@MacAskill2019DefinitionEffectiveAltruism].
+    William MacAskill (2019) [The definition of effective altruism](https://doi.org/10.1093/oso/9780198841364.003.0001), en Hilary Greaves & Theron Pummer (eds.), *Effective Altruism: Philosophical Issues*, Oxford: Oxford University Press, pp. 10–28.
 
-[^9]: Véase [@MacAskill2019DefinitionEffectiveAltruism].
+[^9]: Véase William MacAskill (2019) [The definition of effective altruism](https://doi.org/10.1093/oso/9780198841364.003.0001), en Hilary Greaves & Theron Pummer (eds.), *Effective Altruism: Philosophical Issues*, Oxford: Oxford University Press, pp. 10–28.
 [^10]:
     El altruismo eficaz "es compatible con el igualitarismo, con el prioritarismo y, dado que no afirma que el bienestar sea lo único valioso, con puntos de vista que asignan valor a bienes no bienestaristas."
 
-    [@MacAskill2019DefinitionEffectiveAltruism].
+    William MacAskill (2019) [The definition of effective altruism](https://doi.org/10.1093/oso/9780198841364.003.0001), en Hilary Greaves & Theron Pummer (eds.), *Effective Altruism: Philosophical Issues*, Oxford: Oxford University Press, pp. 10–28.
 
-[^11]: [@Parfit2011WhatMattersVolumec, pp. 436-437].
-[^12]: Por ejemplo, el libro de Peter Singer <cite>[@Singer2009LifeYouCan1]</cite> (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
-[^13]: [@Roser2013ChildAndInfant].
-[^14]: [@Roser2013ChildAndInfant].
-[^15]: [@GiveWell2010YourDollarGoes].
-[^16]: [@Givewell2023OurTopCharities].
-[^17]: [@Bentham2017IntroductionToPrinciples, pp. 143-144].
+[^11]: Derek Parfit (2017) [*On What Matters: Volume 3*](https://worldcat.org/search?q=9780198778608), Oxford: Oxford University Press, pp. 436-437.
+[^12]: Por ejemplo, el libro de Peter Singer [*The Life You Can Save*](https://worldcat.org/search?q=978-1-7336727-0-2) (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
+[^13]: Max Roser, Hannah Ritchie & Bernadeta Dadonaite (2013) [Child and infant mortality](https://ourworldindata.org/child-mortality), , 10 de mayo (última actualización: noviembre de 2019).
+[^14]: Max Roser, Hannah Ritchie & Bernadeta Dadonaite (2013) [Child and infant mortality](https://ourworldindata.org/child-mortality), , 10 de mayo (última actualización: noviembre de 2019).
+[^15]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
+[^16]: GiveWell (2023) [Our top charities](https://www.givewell.org/charities/top-charities), *GiveWell*, julio.
+[^17]: Jeremy Bentham (2017) [*An Introduction to the Principles of Morals and Legislation*](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), edición de Jonathan Bennett, Early Modern Texts, pp. 143-144.
 [^18]: Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#especismo), dar la misma consideración moral a todos los animales no implica necesariamente que debamos tratarlos a todos por igual.
-[^19]: [@Sanders2018GlobalAnimalSlaughter].
-[^20]: [@Anthis2019GlobalFarmedFactory].
-[^21]: [@Simcikas2019CorporateCampaignsAffect].
-[^22]: Cf. [@AnimalCharityEvaluators2016WhyFarmedAnimals].
+[^19]: Bas Sanders (2018) [Global animal slaughter statistics and charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/), *Faunalytics*, 10 de octubre.
+[^20]: Kelly Anthis & Jacy Reese Anthis (2019) [Global farmed & factory farmed animals estimates](https://sentienceinstitute.org/global-animal-farming-estimates), *Sentience Institute*.
+[^21]: Saulius Šimčikas (2019) [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life), *Effective Altruism Forum*, 8 de julio.
+[^22]: Cf. Animal Charity Evaluators (2016) [Why farmed animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/), *Animal Charity Evaluators*, noviembre.
 [^23]:
-    [@Parfit1984ReasonsPersons, p. 454].
+    Derek Parfit (1984) [*Reasons and Persons*](https://worldcat.org/search?q=0-19-824908-X), Oxford: Clarendon Press, p. 454.
 
     Nótese que esto no es técnicamente exacto. Algunas distopías concebibles (que contienen enorme sufrimiento) serían incluso peores que la extinción humana.
 
-[^24]: Para un debate sobre el largoplacismo y sus supuestos subyacentes, véase [@Greaves2021CaseStrongLongtermism].
+[^24]: Para un debate sobre el largoplacismo y sus supuestos subyacentes, véase Hilary Greaves & William MacAskill (2021) [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/), GPI Working Paper No. 5-2021, Global Priorities Institute, Universidad de Oxford.
 [^25]:
-    [@Ord2020PrecipiceExistentialRisk, p. 37].
+    Toby Ord (2020) [*The Precipice: Existential Risk and the Future of Humanity*](https://worldcat.org/search?q=1-5266-0021-8), Londres: Bloomsbury Publishing, p. 37.
 
     Nos centraremos en el riesgo de extinción como el ejemplo más sencillo, pero también se pueden imaginar situaciones en las que la humanidad sobreviva, pero con su potencial a largo plazo permanentemente mermado.
 
-[^26]: Cf. [@Bostrom2003AstronomicalWasteOpportunity].
-[^27]: Cf. [@Beckstead2013OverwhelmingImportanceShaping, sec. 3: The case for shaping the far future].
-[^28]: [@Roser2019ShortHistoryOf].
-[^29]: Cf. [@Bostrom2013ExistentialRiskPrevention].
-[^30]: Cf. [@MacAskill2015DoingGoodBetter, chap. 1].
+[^26]: Cf. Nick Bostrom (2003) [Astronomical waste: The opportunity cost of delayed technological development](https://doi.org/10.1017/S0953820800004076), *Utilitas*, vol. 15, pp. 308–314.
+[^27]: Cf. Nick Beckstead (2013) [*On the Overwhelming Importance of Shaping the Far Future*](https://doi.org/10.7282/T35M649T), tesis doctoral, Universidad Rutgers, sec. 3: The case for shaping the far future.
+[^28]: Max Roser (2019) [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions), *Our World in Data*.
+[^29]: Cf. Nick Bostrom (2013) [Existential risk prevention as global priority](https://doi.org/10.1111/1758-5899.12002), *Global Policy*, vol. 4, pp. 15–31.
+[^30]: Cf. William MacAskill (2015) [*Doing Good Better: How Effective Altruism Can Help You Make a Difference*](https://worldcat.org/search?q=978-1-59240-966-2), Nueva York: Random House, chap. 1.
 [^31]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de Giving What We Can.
-[^32]: [@Caviola2020DonorsVastlyUnderestimate].
+[^32]: Lucius Caviola *et al.* (2020) [Donors vastly underestimate differences in charities’ effectiveness](https://doi.org/10.1017/S1930297500007452), *Judgment and Decision Making*, vol. 15, pp. 509–516.
 [^33]:
-    [@Givewell2019YourDollarGoesa].
+    GiveWell (2019) [Your dollar goes further when you fund the right program](https://www.givewell.org/giving101/Funding-the-Right-Program), *GiveWell*.
 
-    [@Ord2013MoralImperativeCosteffectiveness].
+    Toby Ord (2013) [The moral imperative toward cost-effectiveness in global health](www.cgdev.org/content/publications/detail/1427016), *Center for Global Development*, March.
 
-[^34]: [@GiveWell2010YourDollarGoes].
-[^35]: [@Stevenson2013SubjectiveWellbeingIncome].
-[^36]: [@Dunn2011IfMoneyDoesn].
-[^37]: Para más detalles, véase [@MacAskill2018GivingIsnDemanding].
+[^34]: GiveWell (2010) [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas), *GiveWell*.
+[^35]: Betsey Stevenson & Justin Wolfers (2013) [Subjective well-being and income: is there any evidence of satiation?](https://doi.org/10.3386/w18992), CESifo documento de trabajo n.º 4222, w18992, National Bureau of Economic Research.
+[^36]: Elizabeth W. Dunn, Daniel T. Gilbert & Timothy D. Wilson (2011) [If money doesn’t make you happy, then you probably aren’t spending it right](https://doi.org/10.1016/j.jcps.2011.02.002), *Journal of Consumer Psychology*, vol. 21, pp. 115–125.
+[^37]: Para más detalles, véase William MacAskill, Andreas Mogensen & Toby Ord (2018) [Giving isn’t demanding](https://doi.org/10.1093/oso/9780190648879.003.0007), en Paul Woodruff (ed.), *The Ethics of Giving: Philosophers’ Perspectives on Philanthropy*, Nueva York: Oxford University Press, pp. 178–203.
 [^38]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de 80.000 Horas.
-[^39]: Cf. [@Todd2014WeReviewed60].
+[^39]: Cf. Benjamin Todd (2014) [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/), *80,000 Hours*, 2 de agosto.
 [^40]: Tenga en cuenta que el profesor William MacAskill, coautor de este sitio web, es el autor de varios de los recursos enumerados sobre altruismo eficaz. Además, es cofundador tanto de 80.000 Horas como de Giving What We Can.
