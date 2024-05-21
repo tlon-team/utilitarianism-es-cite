@@ -392,7 +392,7 @@ Aunque Parfit merece el reconocimiento por plantear el debate filosófico en tor
 [^22]:
     Gustaf Arrhenius (2000) [An impossibility theorem for welfarist axiologies](https://doi.org/0.1017/S0266267100000249), *Economics and Philosophy*, vol. 16, pp. 247–266.
 
-    [@Arrhenius2011ImposibilidadPoblaciónSatisfactoria].
+    [@Arrhenius2011ImpossibilitySatisfactoryPopulation].
 
     Philip Kitcher (2000) [Parfit’s puzzle](https://doi.org/10.1111/0029-4624.00278), *Nous*, vol. 34, pp. 550–577.
 
@@ -500,7 +500,7 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
 [^56]:
     Además de la reducción del riesgo existencial, otra estrategia prometedora para mejorar el futuro a largo plazo es la "ampliación del círculo moral": aumentar la preocupación moral por los miembros de algunos grupos periféricos para incluir, idealmente, a todos los seres sintientes.
 
-    [@Anthis2021ExpansionCirculoMoral].
+    [@Anthis2021MoralCircleExpansion].
 
 [^57]: Esta suposición es plausible: con el continuo progreso tecnológico, social y moral, la calidad de vida media en el futuro probablemente seguirá aumentando, como lo ha hecho durante cientos de años. Sólo un nivel crítico irrazonablemente alto, según el cual incluso el valor de la vida media en la generación presente fuera negativo, podría invalidar la conclusión de que la reducción del riesgo existencial debería ser una prioridad.
 

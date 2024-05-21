@@ -84,10 +84,10 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarismoCrashCourse].
+- [@Crashcourse2016UtilitarianismCrashCourse].
 - Katarzyna de Lazari-Radek & Peter Singer (2017) [*Utilitarianism: A Very Short Introduction*](https://doi.org/10.1093/actrade/9780198728795.001.0001), Oxford: Oxford University Press.
 - Krister Bykvist (2010) [*Utilitarianism: A Guide for the Perplexed*](https://worldcat.org/search?q=978-0-8264-9808-3), Londres: Continuum.
-- [@2023WhatIsUtilitarianism].
+- [@Appiah2022WhatIsUtilitarianism].
 
 ### Los Clásicos
 
@@ -97,15 +97,15 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Más información
 
-- [@Driver2022HistoriaDelUtilitarismo].
-- [@Schultz2017FelicidadVidaDeLosFilósofos].
+- [@Driver2022HistoryOfUtilitarianism].
+- [@Schultz2017HappinessPhilosophersLives].
 - James E. Crimmins (ed.) (2013) [*The Bloomsbury Encyclopedia of Utilitarianism*](https://doi.org/10.5040/9781350021679), Londres: Bloomsbury Academic.
 - Derek Parfit (2011) [*On What Matters*](https://worldcat.org/search?q=978-0-19-926592-3), Vols. 1–3 Oxford: Oxford University Press.
 - Yew-Kwang Ng (1990) [Welfarism and utilitarianism: a rehabilitation](https://doi.org/10.1017/S0953820800000650), *Utilitas*, vol. 2, pp. 171–193.
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase [@Williams2015PosibilidadOngoingMoral].
+[^2]: Para más detalles, véase [@Williams2015PossibilityOngoingMoral].
 
 [^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 
